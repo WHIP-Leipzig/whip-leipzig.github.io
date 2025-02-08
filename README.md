@@ -12,18 +12,18 @@ Um das Projekt lokal zu starten, folge einfach diesen Schritten:
   ```bash
   git clone https://github.com/WHIP-Leipzig/whip-website.git
   ```
-1. Navigiere ins Projektverzeichnis:
+2. Navigiere ins Projektverzeichnis:
   ```bash
   cd whip-website
   ```
-1. Dependencies installieren:
+3. Dependencies installieren:
   ```bash
   npm ci
   ```
-1. Entwicklungsserver starten:
+4. Entwicklungsserver starten:
   ```bash
   npm start
   ```
 
-## License
+## Lizenz
 Alle Rechte vorbehalten.
