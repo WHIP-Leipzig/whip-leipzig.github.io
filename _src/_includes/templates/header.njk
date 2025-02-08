@@ -1,4 +1,5 @@
 {% set navigation = navigation %}
+{% set page = page %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -87,12 +88,14 @@
     content="Der WHIP Stammtisch bietet einen sicheren Raum für Menschen unter 40, um sich über BDSM auszutauschen, basierend auf Konsens, Kommunikation und Respekt."
   />
   <link rel="shortcut icon" href="./assets/img/logo.svg" />  
-  <title>{{ title }}</title>
+  <title>{% if title %}{{ title }} | {% endif %}{{ page.title }}</title>
 </head>
 <body>
   <header class="container">
     <nav aria-label="Navigation">
-      <img id="logo" src="/assets/img/logo.svg" alt="Logo des WHIP Stammtisches" />
+      <a href="/" title="Startseite">
+        <img id="logo" src="./assets/img/logo.svg" alt="Logo des WHIP Stammtisches" />
+      </a>
       <ul>
         {%- for entry in navigation %}
         <li>

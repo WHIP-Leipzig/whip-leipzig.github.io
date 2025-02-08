@@ -1,9 +1,7 @@
 ---
-title: "Konzept | WHIP Stammtisch Leipzig"
+title: "Konzept"
 layout: "base.njk"
 ---
-# Konzept
-
 ## Publikum
 Der Stammtisch soll allen Menschen offen sein, die seinen [Prinzipien](/prinzipien) zustimmen und diese auch nach außen hin leben. Die weiche Altersgrenze für 
 Teilnehmende liegt bei ca. 40 Jahren. Die Orga behält sich vor, das Publikum zu filtern und bei Bedarf an andere Stammtische zu verweisen, sodass ein angenehmes

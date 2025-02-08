@@ -1,6 +1,4 @@
 ---
-title: "Impressum | WHIP Stammtisch Leipzig"
+title: "Impressum"
 layout: "base.njk"
 ---
-
-# Impressum

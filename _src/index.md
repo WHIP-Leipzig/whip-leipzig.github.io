@@ -1,5 +1,5 @@
 ---
-title: "Start | WHIP Stammtisch Leipzig"
+title: "Willkommen!"
 layout: "base.njk"
 ---
 
