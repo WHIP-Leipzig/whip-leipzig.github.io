@@ -1,18 +1,8 @@
 import eleventySass from "eleventy-sass";
 
 export default function(eleventyConfig) {
-  // Output directory: _site
+  eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
 
-  // Copy `img/` to `_site/img`
-  // eleventyConfig.addPassthroughCopy("static/img");
-
-  // Copy `css/fonts/` to `_site/css/fonts`
-  // Keeps the same directory structure.
-  // eleventyConfig.addPassthroughCopy({"static/css": "css"});
-
-  // Copy any .jpg file to `_site`, via Glob pattern
-  // Keeps the same directory structure.
-  // eleventyConfig.addPassthroughCopy("**/*.jpg");
   eleventyConfig.addPlugin(eleventySass, {
     compileOptions: {
       permalink: function(contents, inputPath) {
