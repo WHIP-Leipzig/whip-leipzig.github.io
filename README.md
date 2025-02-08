@@ -10,7 +10,7 @@ Um das Projekt lokal zu starten, folge einfach diesen Schritten:
 
 1. Repository klonen:
   ```bash
-  git clone https://github.com/WHIP-Leipzig/whip-website.git
+  git clone git@github.com:WHIP-Leipzig/whip-leipzig.github.io.git whip-website
   ```
 2. Navigiere ins Projektverzeichnis:
   ```bash
