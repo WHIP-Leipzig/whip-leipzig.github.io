@@ -43,14 +43,13 @@ Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erho
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
 ### Hinweis zur verantwortlichen Stelle
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-
-Beispielfirma\
-Musterweg 10\
-90210 Musterstadt\
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:\
 \
-Telefon: +49 (0) 123 44 55 66\
-E-Mail: info@beispielfirma.de\
+Richard Richter\
+c/o IP-Management #4295\
+Ludwig-Erhard-Str. 18\
+20459 Hamburg\
+E-Mail: kontakt@whip-leipzig.de\
 \
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail- Adressen o. Ä.) entscheidet.
 
