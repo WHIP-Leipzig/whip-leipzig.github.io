@@ -39,7 +39,7 @@ Wir bitten euch in der Location über den Abend Getränke zu bestellen, damit si
 Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Personen anzufertigen.
 
 ## Wird in der Location geraucht?
-In der Location selbst wird nicht geraucht, aber Mdavor oder auf dem Hof sind zuweilen rauchende Menschen anzutreffen.
+In der Location selbst wird nicht geraucht, aber davor oder auf dem Hof sind zuweilen rauchende Menschen anzutreffen.
 
 ## Meine Frage wurde nicht beantwortet?
 Diese FAQ ist nur ein erster Anlaufpunkt für deine Fragen. Solltest du weitere haben, sprich gerne die Orgas an.
