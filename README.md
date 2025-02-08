@@ -1,5 +1,5 @@
 # Welcome Home Innocent Pervs - Webseite
-## Project Overview
+## Projektübersicht
 
 Dies ist die Webseite des WHIP Stammtisches in Leipzig.
 Unser Ziel ist einen angenehmen Safer Space für interessierte Menschen zu bieten um sich zu verknüpfen und miteinander auszutauschen.
