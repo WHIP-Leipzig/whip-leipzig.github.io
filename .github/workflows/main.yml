@@ -1,0 +1,26 @@
+name: Publish Website
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '22.x'
+    - name: 🚚 Install Dependencies...
+      run: npm ci
+    - name: 📂 Update Cache...
+      run: npm run cache-update --if-present
+    - name: 🎉 Build...
+      run: npm run build --if-present
+    - name: 🚀 Deploy...
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USER }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./dist/

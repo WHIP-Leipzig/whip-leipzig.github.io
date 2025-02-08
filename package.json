@@ -1,16 +1,19 @@
 {
   "name": "whip_website",
+  "type": "module",
   "version": "1.0.0",
   "description": "Stammtisch Webseite",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "eleventy --watch --serve",
     "build": "eleventy"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "eleventy-sass": "^3.0.0-beta.0",
+    "sass": "^1.84.0"
   }
 }
