@@ -1,0 +1,27 @@
+[
+  {
+    "key": "Startseite",
+    "url": "/",
+    "title": "Startseite"
+  },
+  {
+    "key": "Konzept",
+    "url": "/konzept.html",
+    "title": "Konzept"
+  },
+  {
+    "key": "Prinzipien",
+    "url": "/prinzipien.html",
+    "title": "Prinzipien"
+  },
+  {
+    "key": "Kontakt",
+    "url": "/kontakt.html",
+    "title": "Kontakt"
+  },
+  {
+    "key": "FAQ",
+    "url": "/faq.html",
+    "title": "FAQ"
+  }
+]

@@ -1,0 +1,19 @@
+{% set navigation = legallinks %}
+
+  <footer class="container">
+    <nav aria-label="Rechtliche Informationen">
+      <ul>
+        {%- for entry in navigation %}
+        <li>
+          {% if entry.url == page.url %}
+            <strong>{{ entry.title }}</strong>
+          {% else %}
+            <a href="{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a>
+          {% endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </footer>
+</body>
+</html>

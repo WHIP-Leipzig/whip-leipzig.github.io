@@ -1,26 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/assets/css/app.css" />
-  <title>{{ title }}</title>
-</head>
-<body>
-  <header>
-    <nav>
-      <img id="logo" src="/assets/img/logo.svg" alt="Logo des WHIP Stammtisches" />
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/contact">Contact</a></li>
-      </ul>
-    </nav>
-  <h1>{{ title }}</h1>
-  
-<main>
-{{content | safe}}
-<main>
+{% include "templates/header.njk" %}
 
-</body>
-</html>
+  <main class="container">
+    <h1>{{ title }}</h1>
+    {{content | safe}}
+  </main>
+
+{% include "templates/footer.njk" %}
