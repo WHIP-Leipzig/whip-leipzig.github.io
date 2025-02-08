@@ -1,23 +1,29 @@
-# Welcome Home Innocent Pervs
+# Welcome Home Innocent Pervs - Webseite
+## Project Overview
 
-## Inhalt MVP
+Dies ist die Webseite des WHIP Stammtisches in Leipzig.
+Unser Ziel ist einen angenehmen Safer Space für interessierte Menschen zu bieten um sich zu verknüpfen und miteinander auszutauschen.
 
-- [x] Startseite mit nächstem Termin
-- [x] Seite mit Stammtisch-Konzept und Prinzipien®
-- [x] Datenschutz + Impressum (Adressschutz sollte eingebaut werden)
-- [x] Kontaktoption via Mail/Telegram
-- [x] FAQ
+## Installation
 
-## Design MVP
+Um das Projekt lokal zu starten, folge einfach diesen Schritten:
 
-- [x] Angelehnt ans Logo Schwarz/Weiß als Hauptfarben (könnte auch mit dark/light Theme gespielt werden)
-- [x] Schrift für Überschriften [Permanent Marker](https://fonts.google.com/specimen/Permanent+Marker?preview.text=WHIP) o.ä.
-- [x] Texte allgemein non-serif Schrift für Lesbarkeit
-- [x] Fokus auf mobile first
+1. Repository klonen:
+  ```bash
+  git clone https://github.com/WHIP-Leipzig/whip-website.git
+  ```
+1. Navigiere ins Projektverzeichnis:
+  ```bash
+  cd whip-website
+  ```
+1. Dependencies installieren:
+  ```bash
+  npm ci
+  ```
+1. Entwicklungsserver starten:
+  ```bash
+  npm start
+  ```
 
-## Tech MVP
-
-- [x] Wartbare Lösung, um **Inhalte** ohne tiefes Codingverständnis anpassen zu können
-- [x] Möglichst kostengünstiges/-loses Hosting
-
-## Weitere Wünsche?
+## License
+Alle Rechte vorbehalten.
