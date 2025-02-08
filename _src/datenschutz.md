@@ -49,7 +49,7 @@ Richard Richter\
 c/o IP-Management #4295\
 Ludwig-Erhard-Str. 18\
 20459 Hamburg\
-E-Mail: kontakt@whip-leipzig.de\
+E-Mail: [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de)\
 \
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail- Adressen o. Ä.) entscheidet.
 
