@@ -1,19 +1,11 @@
 [
   {
-    "url": "/",
-    "title": "Startseite"
-  },
-  {
     "url": "/konzept.html",
     "title": "Konzept"
   },
   {
     "url": "/prinzipien.html",
     "title": "Prinzipien"
-  },
-  {
-    "url": "/kontakt.html",
-    "title": "Kontakt"
   },
   {
     "url": "/faq.html",

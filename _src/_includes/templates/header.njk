@@ -93,9 +93,13 @@
 <body>
   <header class="container">
     <nav aria-label="Navigation">
-      <a href="/" title="Startseite">
-        <img id="logo" src="./assets/img/logo.svg" alt="Logo des WHIP Stammtisches" />
-      </a>
+      <ul>
+        <li>
+          <a id="logo" href="/" title="Startseite">
+            <img src="./assets/img/logo.svg" alt="Logo des WHIP Stammtisches" />
+          </a>
+        </li>
+      </ul>
       <ul>
         {%- for entry in navigation %}
         <li>
