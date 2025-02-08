@@ -1,0 +1,15 @@
+{% set meetings = meetings %}
+{% include "templates/header.njk" %}
+
+  <main class="container">
+    <h1>{{ title }}</h1>
+    {{content | safe}}
+    Unsere nächsten Termine sind:
+    <ul>
+      {% for meeting in meetings %}
+        <li>{{ meeting.date }}{% if meeting.topic %}<br />Thema: "{{ meeting.topic }}"{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </main>
+
+{% include "templates/footer.njk" %}

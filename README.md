@@ -2,11 +2,11 @@
 
 ## Inhalt MVP
 
-- [ ] Startseite mit nächstem Termin
-- [ ] Seite mit Stammtisch-Konzept und Prinzipien®
-- [ ] Datenschutz + Impressum (Adressschutz sollte eingebaut werden)
-- [ ] Kontaktoption via Mail/Telegram
-- [ ] FAQ
+- [x] Startseite mit nächstem Termin
+- [x] Seite mit Stammtisch-Konzept und Prinzipien®
+- [x] Datenschutz + Impressum (Adressschutz sollte eingebaut werden)
+- [x] Kontaktoption via Mail/Telegram
+- [x] FAQ
 
 ## Design MVP
 
@@ -17,7 +17,7 @@
 
 ## Tech MVP
 
-- [ ] Wartbare Lösung, um **Inhalte** ohne tiefes Codingverständnis anpassen zu können
-- [ ] Möglichst kostengünstiges/-loses Hosting
+- [x] Wartbare Lösung, um **Inhalte** ohne tiefes Codingverständnis anpassen zu können
+- [x] Möglichst kostengünstiges/-loses Hosting
 
 ## Weitere Wünsche?
