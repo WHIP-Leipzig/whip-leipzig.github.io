@@ -41,5 +41,5 @@ Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Person
 ## Wird in der Location geraucht?
 In der Location selbst wird nicht geraucht, aber davor oder auf dem Hof sind zuweilen rauchende Menschen anzutreffen.
 
-## Meine Frage wurde nicht beantwortet?
+## Meine Frage wurde hier nicht beantwortet...
 Diese FAQ ist nur ein erster Anlaufpunkt für deine Fragen. Solltest du weitere haben, sprich gerne die Orgas an.
