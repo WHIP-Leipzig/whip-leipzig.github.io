@@ -17,10 +17,13 @@ jobs:
       run: npm run cache-update --if-present
     - name: 🎉 Build...
       run: npm run build --if-present
-    - name: 🚀 Deploy...
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+    - name: 🚀 Setup pages...
+      uses: actions/configure-pages@v5
+    - name: 🚀 Upload artifact...
+      uses: actions/upload-pages-artifact@v3
       with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USER }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./dist/
+        # Upload entire repository
+        path: '_site/'
+    - name: 🚀 Deploy to GitHub Pages...
+      id: deployment
+      uses: actions/deploy-pages@v4
