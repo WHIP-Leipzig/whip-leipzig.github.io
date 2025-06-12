@@ -10,10 +10,10 @@
         <li>
           {% switch meeting.type %}
             {% case "meeting" %}
-              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Whip-Stammtisch</a>
+              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Whip-Stammtisch</a>:
             {% case "play" %}
-              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Play-Whip</a>
-          {% endswitch %}:
+              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Play-Whip</a>:
+          {% endswitch %}
           {{ meeting.date }}
           {% if meeting.topic %}
           <br />
