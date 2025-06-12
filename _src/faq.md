@@ -21,10 +21,10 @@ Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
 Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, seine Regeln und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt Ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
 
 ## Ist "Spielen" erlaubt?
-### "Whip"
+### Whip-Stammtisch
 Bei unserem regulären Stammtisch sollte öffentliches Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden, da wir uns an einem öffentlichen Ort befinden.
 
-### "Play-Whip"
+### Play-Whip
 Hier haben wir die Location ganz für uns - Spielen ist also erlaubt und erwünscht.
 Wenn ihr spielt, achtet bitte auf eure Umgebung und lasst uns gemeinsam herantasten, was für die Location vertretbar ist. Das Limit der Location ist bisher, dass es bei nicht sexuellem Spielen bleibt, Genitalien also auch eingepackt bleiben. 
 
