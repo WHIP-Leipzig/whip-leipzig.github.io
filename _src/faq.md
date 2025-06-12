@@ -12,7 +12,7 @@ Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
 Wir haben keine Regeln, aber haben uns selbst [Prinzipien](/prinzipien.html) gegeben.
 
 ## Was für Treffen gibt es beim Whip?
-Aktuell gibt es den Whip-Stammtisch, bei dem wir in gemütlicher Runde an einem öffentlichen Ort zusammenkommen sowie den Play-Whip, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
+Aktuell gibt es den **Whip-Stammtisch**, bei dem wir in gemütlicher Runde an einem öffentlichen Ort zusammenkommen sowie den **Play-Whip**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.

@@ -1,10 +1,12 @@
 [
   {
-    "date": "Dienstag, 17.06.2025: Play-Whip",
-    "topic": "Kommt bald..."
+    "type": "play",
+    "date": "Dienstag, 17.06.2025",
+    "topic": ""
   },
   {
-    "date": "Freitag, 04.07.2025: Whip",
-    "topic": "Kommt bald..."
+    "type": "meeting",
+    "date": "Freitag, 04.07.2025",
+    "topic": ""
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "name": "whip_website",
+  "name": "whip-website",
   "type": "module",
   "version": "1.0.0",
-  "description": "Stammtisch Webseite",
+  "description": "Webseite des Whip-Stammtischs in Leipzig",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --watch --serve",
@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy": "^3.1.1",
     "eleventy-sass": "^3.0.0-beta.0",
-    "sass": "^1.84.0"
+    "sass": "^1.89.2"
   }
 }

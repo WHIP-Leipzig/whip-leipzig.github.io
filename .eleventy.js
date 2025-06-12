@@ -1,3 +1,4 @@
+import { IdAttributePlugin } from "@11ty/eleventy";
 import eleventySass from "eleventy-sass";
 
 export default function(eleventyConfig) {
@@ -7,6 +8,8 @@ export default function(eleventyConfig) {
 	});
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
+  
+	eleventyConfig.addPlugin(IdAttributePlugin);
 
   eleventyConfig.addPlugin(eleventySass, {
     compileOptions: {

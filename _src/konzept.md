@@ -9,4 +9,4 @@ Der Stammtisch soll allen Menschen offen sein, die seinen [Prinzipien](/prinzipi
 Thematischer Schwerpunkt des Stammtisches sollte stets der Bereich BDSM sein. Die Orga bemüht sich, den Stammtischen immer einen thematischen Schwerpunkt zu bieten, um den Austausch anzuregen. Letztlich ist das Ziel der Stammtische, zur Aufklärung interessierter Personen beizutragen und einen sicheren Einstieg in die Thematik zu finden.
 
 ## Häufigkeit
-Der Whip-Stammtisch findet in der Regel einmal monatlich, nach Möglichkeit, am ersten Freitag des Monats statt. Der Play-Whip ist meistens für den zweiten Dienstag dem Monats anvisiert.
+Der [Whip-Stammtisch](faq.html#was-fuer-treffen-gibt-es-beim-whip) findet in der Regel einmal monatlich, nach Möglichkeit, am ersten Freitag des Monats statt. Der [Play-Whip](faq.html#was-fuer-treffen-gibt-es-beim-whip) ist meistens für den zweiten Dienstag dem Monats anvisiert.
