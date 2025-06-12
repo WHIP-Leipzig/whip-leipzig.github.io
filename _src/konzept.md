@@ -10,4 +10,3 @@ Thematischer Schwerpunkt des Stammtisches sollte stets der Bereich BDSM sein. Di
 
 ## Häufigkeit
 Der Whip-Stammtisch findet in der Regel einmal monatlich, nach Möglichkeit, am ersten Freitag des Monats statt. Der Play-Whip ist meistens für den zweiten Dienstag dem Monats anvisiert.
-So soll eine Überschneidung mit anderen Stammtischen verhindert werden. 
