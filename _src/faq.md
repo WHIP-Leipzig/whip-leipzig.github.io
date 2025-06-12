@@ -25,7 +25,9 @@ Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem off
 Bei unserem regulären Stammtisch sollte öffentliches Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden, da wir uns an einem öffentlichen Ort befinden.
 
 ### Play-WHIP
-Hier haben wir die Location ganz für uns - Spielen ist also erlaubt und erwünscht.
+Hier haben wir die Location ganz für uns - Spielen ist also erlaubt aber keine Pflicht.
+Ihr solltet aber fein damit sein, dass um Euch herum gespielt werden könnte. Allerdings besteht keine Erwartung oder sogar Pflicht, dass die anwesenden Menschys überhaupt spielen – [unsere Prinzipien](/prinzipien.html) stehen dabei nach wie vor unberührt an oberster Stelle. Die einzige Hoffnung ist, dass wir eine wundervolle Zeit zusammen haben.
+
 Wenn ihr spielt, achtet bitte auf eure Umgebung und lasst uns gemeinsam herantasten, was für die Location vertretbar ist. Das Limit der Location ist bisher, dass es bei nicht sexuellem Spielen bleibt, Genitalien also auch eingepackt bleiben. 
 
 #### Wichtig!
