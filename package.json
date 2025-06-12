@@ -2,7 +2,7 @@
   "name": "whip-website",
   "type": "module",
   "version": "1.0.0",
-  "description": "Webseite des Whip-Stammtischs in Leipzig",
+  "description": "Webseite des WHIP-Stammtischs in Leipzig",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --watch --serve",

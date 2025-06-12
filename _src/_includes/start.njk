@@ -3,6 +3,10 @@
 
   <main class="container">
     <h1 id="welcome">{{ title }}</h1>
+    <p>
+      Willkommen auf der Webseite der WHIP BDSM-Community in Leipzig – schön, dass Du da bist!<br/>
+      Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.
+    </p>
     {{content | safe}}
     <h2>Unsere nächsten Termine</h2>
     <ul>
@@ -10,9 +14,9 @@
         <li>
           {% switch meeting.type %}
             {% case "meeting" %}
-              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Whip-Stammtisch</a>:
+              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">WHIP-Stammtisch</a>:
             {% case "play" %}
-              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Play-Whip</a>:
+              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Play-WHIP</a>:
           {% endswitch %}
           {{ meeting.date }}
           {% if meeting.topic %}

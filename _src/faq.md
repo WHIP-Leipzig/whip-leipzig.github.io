@@ -11,8 +11,8 @@ Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
 ## Was sind eure Regeln?
 Wir haben keine Regeln, aber haben uns selbst [Prinzipien](/prinzipien.html) gegeben.
 
-## Was für Treffen gibt es beim Whip?
-Aktuell gibt es den **Whip-Stammtisch**, bei dem wir in gemütlicher Runde an einem öffentlichen Ort zusammenkommen sowie den **Play-Whip**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
+## Was für Treffen gibt es beim WHIP?
+Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde an einem öffentlichen Ort zusammenkommen sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
@@ -21,10 +21,10 @@ Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
 Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, seine Regeln und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt Ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
 
 ## Ist "Spielen" erlaubt?
-### Whip-Stammtisch
+### WHIP-Stammtisch
 Bei unserem regulären Stammtisch sollte öffentliches Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden, da wir uns an einem öffentlichen Ort befinden.
 
-### Play-Whip
+### Play-WHIP
 Hier haben wir die Location ganz für uns - Spielen ist also erlaubt und erwünscht.
 Wenn ihr spielt, achtet bitte auf eure Umgebung und lasst uns gemeinsam herantasten, was für die Location vertretbar ist. Das Limit der Location ist bisher, dass es bei nicht sexuellem Spielen bleibt, Genitalien also auch eingepackt bleiben. 
 
@@ -40,10 +40,10 @@ Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so 
 Es gibt in der Location kostenpflichtige Getränke. Speisen und Snacks können Teilnehmende selbst mitbringen oder sich von einem der umliegenden Lokale holen.
 
 ## Wie sollte ich mich kleiden?
-### Whip-Stammtisch
+### WHIP-Stammtisch
 Am besten in dem Outfit, in dem du dich am wohlsten fühlst. Achte nur darauf, dass die Location öffentlich ist.
 
-### Play-Whip
+### Play-WHIP
 Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort noch bequem/schick/sexy an, wenn ihr das möchtet. Ihr habt die Wahl.
 
 ## Ich traue mich nicht (alleine) vorbeizukommen, was kann ich tun?
