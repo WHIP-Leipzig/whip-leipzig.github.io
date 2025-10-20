@@ -36,7 +36,8 @@ Die Location ist aus sicherheitstechnischen Gründen während unserer Veranstalt
 ## Wie erreiche ich die Orga? Wie kann ich Kontakt aufnehmen?
 Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+nErQRBpG9xFkNTc6).
 ### Hinweis:
-Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe. Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. Schreibt gern wie Ihr zu uns gefunden habt oder was auch immer Ihr mögt - Bots schreiben nämlich meist über ominöse Jobangebote. 😁
+Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe. Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. Schreibt gern wie Ihr zu uns gefunden habt oder was auch immer Ihr mögt - Bots schreiben nämlich meist gar nichts oder über ominöse Jobangebote. 😁
+Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beitretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
 
 ## Gibt es vor Ort Speisen/Getränke?
 Es gibt in der Location kostenpflichtige Getränke. Speisen und Snacks können Teilnehmende selbst mitbringen oder sich von einem der umliegenden Lokale holen.
