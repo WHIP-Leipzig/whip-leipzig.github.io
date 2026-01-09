@@ -1,12 +1,17 @@
 [
   {
     "type": "play",
-    "date": "Dienstag, 09.12.2025",
+    "date": "Dienstag, 13.01.2026",
     "topic": ""
   },
   {
     "type": "meeting",
-    "date": "Freitag, 19.12.2025",
+    "date": "Freitag, 06.02.2026",
+    "topic": ""
+  },
+  {
+    "type": "meeting",
+    "date": "Freitag, 06.03.2026",
     "topic": ""
   }
 ]
