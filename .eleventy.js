@@ -6,6 +6,20 @@ export default function(eleventyConfig) {
 		usePolling: true,
 		interval: 500,
 	});
+
+  eleventyConfig.addShortcode("meetingDate", async function(meetingDate) {
+    const meetingDateObj = new Date(meetingDate);
+    const days = ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"];
+    const formatter = new Intl.DateTimeFormat('de-DE', 
+      { 
+        day: '2-digit',
+        month: '2-digit',
+        year: 'numeric'
+      }
+    );
+
+    return `${days[meetingDateObj.getDay()]}, ${formatter.format(meetingDateObj)}`;
+   });
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
   

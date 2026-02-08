@@ -18,7 +18,7 @@
             {% case "play" %}
               <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Play-WHIP</a>:
           {% endswitch %}
-          {{ meeting.date }}
+          {% meetingDate meeting.date %}
           {% if meeting.topic %}
           <br />
           Thema: "{{ meeting.topic }}"
@@ -26,6 +26,9 @@
         </li>
       {% endfor %}
     </ul>
+    <aside>
+      Du kannst <a href="{{ calendar.permalink }}">hier</a> unseren Kalender abonnieren, um immer über unsere Termine informiert zu sein.
+    </aside>
   </main>
 
 {% include "templates/footer.njk" %}
