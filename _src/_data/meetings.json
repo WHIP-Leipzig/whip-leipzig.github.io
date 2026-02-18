@@ -4,9 +4,24 @@
     "date": "2026-03-06",
     "topic": "Vasektomie"
   },
-    {
+  {
     "type": "play",
     "date": "2026-04-14",
+    "topic": ""
+  },
+  {
+    "type": "meeting",
+    "date": "2026-04-10",
+    "topic": "Gatekeeping von Kinks und Fetischen"
+  },
+  {
+    "type": "meeting",
+    "date": "2026-05-08",
+    "topic": "Outing"
+  },
+  {
+    "type": "meeting",
+    "date": "2026-06-05",
     "topic": ""
   }
 ]
