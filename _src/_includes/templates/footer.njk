@@ -1,9 +1,12 @@
 {% set navigation = legallinks %}
+{% set isEnglish = page.url and page.url.startsWith("/en/") %}
 
   <footer class="container">
     <nav aria-label="Rechtliche Informationen">
       <ul>
         {%- for entry in navigation %}
+        {%- set entryIsEnglish = entry.url and entry.url.startsWith("/en/") %}
+        {%- if (isEnglish and entryIsEnglish) or ((not isEnglish) and (not entryIsEnglish)) %}
         <li>
           {% if entry.url == page.url %}
             <strong>{{ entry.title }}</strong>
@@ -11,6 +14,7 @@
             <a href="{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a>
           {% endif %}
         </li>
+        {%- endif %}
         {%- endfor %}
       </ul>
     </nav>

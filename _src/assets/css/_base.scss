@@ -17,3 +17,27 @@ aside {
 footer {
   justify-items: center;
 }
+
+.lang-nav {
+  justify-content: flex-end;
+  --pico-nav-element-spacing-vertical: 0.15rem;
+  --pico-nav-element-spacing-horizontal: 0.35rem;
+  --pico-nav-link-spacing-vertical: 0.1rem;
+  --pico-nav-link-spacing-horizontal: 0.25rem;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.lang-nav ul {
+  margin: 0;
+}
+
+header.container {
+  padding-top: calc(var(--pico-spacing) * 0.5);
+  padding-bottom: calc(var(--pico-spacing) * 0.5);
+}
+
+header.container > nav {
+  margin-top: 0;
+  margin-bottom: 0;
+}

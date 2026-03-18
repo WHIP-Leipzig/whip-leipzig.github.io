@@ -1,27 +1,33 @@
 {% set meetings = meetings %}
 {% include "templates/header.njk" %}
+{% set isEnglish = page.url and page.url.startsWith("/en/") %}
 
   <main class="container">
     <h1 id="welcome">{{ title }}</h1>
     <p>
-      Willkommen auf der Webseite der WHIP BDSM-Community in Leipzig – schön, dass Du da bist!<br/>
-      Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.
+      {% if isEnglish %}
+        Welcome to the WHIP BDSM community in Leipzig — glad you’re here!<br/>
+        Here you’ll find information about <a href="/en/faq.html">us</a>, when we meet, our <a href="/en/konzept.html">concept</a>, and more.
+      {% else %}
+        Willkommen auf der Webseite der WHIP BDSM-Community in Leipzig – schön, dass Du da bist!<br/>
+        Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.
+      {% endif %}
     </p>
     {{content | safe}}
-    <h2>Unsere nächsten Termine</h2>
+    <h2>{% if isEnglish %}Upcoming dates{% else %}Unsere nächsten Termine{% endif %}</h2>
     <ul>
       {% for meeting in meetings %}
         <li>
           {% switch meeting.type %}
             {% case "meeting" %}
-              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">WHIP-Stammtisch</a>:
+              <a href="{% if isEnglish %}/en/faq.html#what-kinds-of-meetups-are-there-at-whip{% else %}faq.html#was-fuer-treffen-gibt-es-beim-whip{% endif %}">{% if isEnglish %}WHIP meetup{% else %}WHIP-Stammtisch{% endif %}</a>:
             {% case "play" %}
-              <a href="faq.html#was-fuer-treffen-gibt-es-beim-whip">Play-WHIP</a>:
+              <a href="{% if isEnglish %}/en/faq.html#what-kinds-of-meetups-are-there-at-whip{% else %}faq.html#was-fuer-treffen-gibt-es-beim-whip{% endif %}">Play-WHIP</a>:
           {% endswitch %}
           {% meetingDate meeting.date %}
           {% if meeting.topic %}
           <br />
-          Thema: "{{ meeting.topic }}"
+          {% if isEnglish %}Topic{% else %}Thema{% endif %}: "{{ meeting.topic }}"
           {% endif %}
         </li>
       {% endfor %}

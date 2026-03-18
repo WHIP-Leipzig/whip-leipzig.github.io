@@ -1,0 +1,13 @@
+{
+  "lang": "en",
+  "navigation": [
+    { "url": "/en/konzept.html", "title": "Concept" },
+    { "url": "/en/prinzipien.html", "title": "Principles" },
+    { "url": "/en/faq.html", "title": "FAQ" }
+  ],
+  "legallinks": [
+    { "url": "/en/kontakt.html", "title": "Contact" },
+    { "url": "/en/datenschutz.html", "title": "Privacy" },
+    { "url": "/en/impressum.html", "title": "Imprint" }
+  ]
+}

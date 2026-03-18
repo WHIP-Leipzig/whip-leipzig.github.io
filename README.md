@@ -16,11 +16,16 @@ Um das Projekt lokal zu starten, folge einfach diesen Schritten:
   ```bash
   cd whip-website
   ```
-3. Dependencies installieren:
+3. Node.js Version setzen (benötigt Node 22+):
+  ```bash
+  nvm install 22
+  nvm use 22
+  ```
+4. Dependencies installieren:
   ```bash
   npm ci
   ```
-4. Entwicklungsserver starten:
+5. Entwicklungsserver starten:
   ```bash
   npm start
   ```

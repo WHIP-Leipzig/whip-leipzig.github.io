@@ -8,6 +8,9 @@
     "start": "eleventy --watch --serve",
     "build": "eleventy"
   },
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
