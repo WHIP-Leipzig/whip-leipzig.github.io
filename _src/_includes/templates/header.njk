@@ -1,19 +1,35 @@
 {% set navigation = navigation %}
 {% set page = page %}
+{% set isEnglish = page.url and page.url.startsWith("/en/") %}
+{% set docLang = lang or "de" %}
+{% if isEnglish %}
+  {% set docLang = "en" %}
+{% endif %}
+{% set homeUrl = "/" %}
+{% if isEnglish %}
+  {% set homeUrl = "/en/" %}
+{% endif %}
+{% if isEnglish %}
+  {% set deUrl = page.url | replace("/en/", "/") %}
+  {% set enUrl = page.url %}
+{% else %}
+  {% set deUrl = page.url %}
+  {% set enUrl = "/en" + page.url %}
+{% endif %}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ docLang }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light dark" />
   <link
     rel="preload"
-    href="./assets/css/app.css"
+    href="/assets/css/app.css"
     as="style"
     onload="this.onload=null;this.rel='stylesheet'"
   />
   <noscript>
-    <link rel="stylesheet" type="text/css" href="./assets/app.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/app.css" />
   </noscript>
   <script>
     (function(t) {
@@ -85,21 +101,42 @@
     name="description"
     content="Der WHIP Stammtisch in Leipzig bietet einen sicheren Raum für Menschen unter 40, um sich über BDSM auszutauschen, basierend auf Konsens, Kommunikation und Respekt."
   />
-  <link rel="shortcut icon" href="./assets/img/logo.svg" />  
+  <link rel="shortcut icon" href="/assets/img/logo.svg" />  
   <title>{% if title %}{{ title }} | {% endif %}{{ page.title }}</title>
 </head>
 <body>
   <header class="container">
+    <nav class="lang-nav" aria-label="Language switch">
+      <ul>
+        <li>
+          {% if docLang == "de" %}
+            <strong>DE</strong>
+          {% else %}
+            <a href="{{ deUrl }}" hreflang="de">DE</a>
+          {% endif %}
+        </li>
+        <li aria-hidden="true">|</li>
+        <li>
+          {% if docLang == "en" %}
+            <strong>EN</strong>
+          {% else %}
+            <a href="{{ enUrl }}" hreflang="en">EN</a>
+          {% endif %}
+        </li>
+      </ul>
+    </nav>
     <nav aria-label="Navigation">
       <ul>
         <li>
-          <a id="logo" href="/" title="Startseite">
-            <img src="./assets/img/logo.svg" alt="Logo des WHIP Stammtisches" width="128" height="128" />
+          <a id="logo" href="{{ homeUrl }}" title="Startseite">
+            <img src="/assets/img/logo.svg" alt="Logo des WHIP Stammtisches" width="128" height="128" />
           </a>
         </li>
       </ul>
       <ul>
         {%- for entry in navigation %}
+        {%- set entryIsEnglish = entry.url and entry.url.startsWith("/en/") %}
+        {%- if (isEnglish and entryIsEnglish) or ((not isEnglish) and (not entryIsEnglish)) %}
         <li>
           {% if entry.url == page.url %}
             <strong>{{ entry.title }}</strong>
@@ -107,6 +144,7 @@
             <a href="{{ entry.url }}" title="{{ entry.title }}">{{ entry.title }}</a>
           {% endif %}
         </li>
+        {%- endif %}
         {%- endfor %}
       </ul>
     </nav>
