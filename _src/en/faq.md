@@ -8,6 +8,9 @@ The meetup name is an acronym and, in full, stands for “Welcome Home Innocent 
 ## Who is the meetup for? Is there an age limit?
 This is answered in our [concept](/en/konzept.html).
 
+## Are the meetings in English? Do you offer English meetings?
+Our community is primarily German-speaking and we don’t offer English-only meetups at the moment. That said, quite a few of our members enjoy speaking English and we’d be happy to welcome you even if you don’t speak German at all!
+
 ## What are your rules?
 We don’t have rules, but we have given ourselves [principles](/en/prinzipien.html).
 
