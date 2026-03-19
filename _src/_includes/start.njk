@@ -33,8 +33,14 @@
       {% endfor %}
     </ul>
     <aside>
-      <h3>Tipp:</h3>
-       <p>Um stets über neue Termine informiert zu sein, kannst du <a href="{{ calendar.permalink }}">diese Adresse</a> in deinem Kalender abonnieren.</p>
+      <h3>{% if isEnglish %}Tip:{% else %}Tipp:{% endif %}</h3>
+      <p>
+        {% if isEnglish %}
+          To stay updated on new dates, you can <a href="{{ calendar.permalink }}">subscribe to this address</a> in your calendar.
+        {% else %}
+          Um stets über neue Termine informiert zu sein, kannst du <a href="{{ calendar.permalink }}">diese Adresse</a> in deinem Kalender abonnieren.
+        {% endif %}
+      </p>
     </aside>
   </main>
 
