@@ -13,11 +13,6 @@
         Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.
       {% endif %}
     </p>
-    {% if isEnglish %}
-      <blockquote>
-        Note: Our community is primarily German-speaking and we don’t offer English-only meetups at the moment. That said, quite a few of our members enjoy speaking English and we’d be happy to welcome you even if you don’t speak German at all!
-      </blockquote>
-    {% endif %}
     {{content | safe}}
     <h2>{% if isEnglish %}Upcoming dates{% else %}Unsere nächsten Termine{% endif %}</h2>
     <ul>
@@ -37,6 +32,11 @@
         </li>
       {% endfor %}
     </ul>
+    {% if isEnglish %}
+      <blockquote>
+        Note: Our community is primarily German-speaking and we don’t offer English-only meetups at the moment. That said, quite a few of our members enjoy speaking English and we’d be happy to welcome you even if you don’t speak German at all!
+      </blockquote>
+    {% endif %}
     <aside>
       <h3>{% if isEnglish %}Tip:{% else %}Tipp:{% endif %}</h3>
       <p>
