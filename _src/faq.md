@@ -41,7 +41,7 @@ Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so 
 Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beitretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
 
 ## Gibt es vor Ort Speisen/Getränke?
-Es gibt in der Location kostenpflichtige Getränke. Speisen und Snacks können Teilnehmende selbst mitbringen oder sich von einem der umliegenden Lokale holen.
+Es gibt in der Location kostenpflichtige Speisen und Getränke.
 
 ## Wie sollte ich mich kleiden?
 ### WHIP-Stammtisch
@@ -54,13 +54,13 @@ Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort 
 Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
 
 ## Kostet der Besuch etwas?
-Wir bitten euch in der Location über den Abend Getränke zu bestellen, damit sie auch Kosten gedeckt kriegt. Im Schnitt sind das ca. 10-15€ über den Abend. Sollte das aktuell für dich nicht passen, kontaktiere uns, damit wir potentiell eine Lösung finden können.
+Wir bitten euch in der Location über den Abend Getränke und gegebenenfalls Essen zu bestellen, damit sie auch Kosten gedeckt kriegt. Im Schnitt sind das ca. 10-15€ über den Abend. Sollte das aktuell für dich nicht passen, ist das natürlich okay.
 
 ## Sind Fotos/Videos erlaubt?
 Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Personen anzufertigen.
 
 ## Wird in der Location geraucht?
-In der Location selbst wird nicht geraucht, aber davor oder auf dem Hof sind zuweilen rauchende Menschen anzutreffen.
+In der Location selbst wird nicht geraucht, aber davor sind zuweilen rauchende Menschen anzutreffen.
 
 ## Meine Frage wurde hier nicht beantwortet...
 Diese FAQ ist nur ein erster Anlaufpunkt für deine Fragen. Solltest du weitere haben, sprich gerne die Orgas an.
