@@ -18,7 +18,7 @@ Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde an ei
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
 
 ## Kann ich auch kommen, wenn ich noch nie auf einem Stammtisch war?
-Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, seine Regeln und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt Ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
+Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, die [Prinzipien](/prinzipien.html) und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt Ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
 
 ## Ist "Spielen" erlaubt?
 ### WHIP-Stammtisch
