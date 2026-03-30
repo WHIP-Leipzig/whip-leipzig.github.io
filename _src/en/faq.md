@@ -21,7 +21,7 @@ Currently there is the **WHIP meetup**, where we meet in a relaxed group at a pu
 Each of our meetups currently takes place at least once per month.
 
 ## Can I come even if I’ve never been to a meetup before?
-Of course! There is always a round for new people that starts 30 minutes before the official start. The organizers explain the meetup, its ground rules, and some general information. This lets you get to know the organizers and ask open questions. It also gives you the opportunity to arrive without immediately joining a large, established group. We hope this makes arriving a bit easier.
+Of course! There is always a round for new people that starts 30 minutes before the official start. The organizers explain the meetup, [principles](/en/prinzipien.html), and some general information. This lets you get to know the organizers and ask open questions. It also gives you the opportunity to arrive without immediately joining a large, established group. We hope this makes arriving a bit easier.
 
 ## Is “playing” allowed?
 ### WHIP meetup
@@ -45,7 +45,7 @@ The invite link is for the “Lounge” and not yet the main group — this help
 Please note that we may assume an account is a bot if there is no response to our welcome message. In that case, we will remove the account from the channel for now.
 
 ## Are food/drinks available on site?
-The venue offers drinks for purchase. Participants can bring food/snacks themselves or get something from one of the nearby places.
+The venue offers food and drinks for purchase.
 
 ## How should I dress?
 ### WHIP meetup
@@ -58,13 +58,13 @@ Come in outfits you feel comfortable in, or change into something comfy/fancy/se
 That’s totally okay. If you want, you can ask a friend to come with you. That can make the first step easier.
 
 ## Does it cost anything to attend?
-We ask you to order drinks at the venue during the evening so they can cover their costs. On average that’s about 10–15€ over the evening. If that doesn’t work for you right now, contact us and we can potentially find a solution.
+We ask you to order something at the venue during the evening so they can cover their costs. On average that’s about 10–15€ over the evening. If that doesn’t work for you right now, that's totally okay as well of course.
 
 ## Are photos/videos allowed?
 To maintain a safer space, it is not permitted to take photos or videos of other people.
 
 ## Is smoking allowed at the venue?
-There is no smoking inside the venue, but people can sometimes be found smoking outside or in the courtyard.
+There is no smoking inside the venue, but people can sometimes be found smoking outside.
 
 ## My question wasn’t answered here…
 This FAQ is only a first starting point. If you have more questions, please talk to the organizers.
