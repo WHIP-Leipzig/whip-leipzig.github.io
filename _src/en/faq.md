@@ -8,8 +8,14 @@ The meetup name is an acronym and, in full, stands for “Welcome Home Innocent 
 ## Who is the meetup for? Is there an age limit?
 This is answered in our [concept](/en/konzept.html).
 
+## Can I find a partner in this community?
+One of our core values is creating a Safer Space for all attendees. We define that as a place, where people can exchange without the fear of things getting uncomfortable (which sadly is very often the case in dating). We're not a dating platform.
+
 ## Are the meetings in English? Do you offer English meetings?
 Our community is primarily German-speaking and we don’t offer English-only meetups at the moment. That said, quite a few of our members enjoy speaking English and we’d be happy to welcome you even if you don’t speak German at all!
+
+## I'm older, is there something for me?
+The lovely people from [SMiLE (SM in Leipzig)](https://www.smile-leipzig.de/) are organizing regular German-speaking meetups.
 
 ## What are your rules?
 We don’t have rules, but we have given ourselves [principles](/en/prinzipien.html).
