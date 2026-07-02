@@ -4,21 +4,33 @@
 
   <main class="container">
     <h1 id="welcome">{{ title }}</h1>
-    <p>
-      {% if isEnglish %}
+    {% if isEnglish %}
+      <p>
         Welcome to the WHIP BDSM community in Leipzig — glad you’re here!<br/>
-        Our goal is to provide a safer space where like-minded people can connect and discuss BDSM. We aim to create an environment where people feel comfortable opening up without having to worry that conversations will become too intense or uncomfortable.<br/>
-        Here you’ll find information about <a href="/en/faq.html">us</a>, when we meet, our <a href="/en/konzept.html">concept</a>, and more.<br/>
+        Our goal is to provide a safer space where like-minded people can connect and discuss BDSM.
+      </p>
+      <p>
+        We aim to create an environment where people feel comfortable opening up without having to worry that conversations will become too intense or uncomfortable.<br/>
         <br/>
         <strong>We are not a dating platform or a matchmaking service.</strong>
-      {% else %}
+      </p>
+      <p>
+        Here you’ll find information about <a href="/en/faq.html">us</a>, when we meet, our <a href="/en/konzept.html">concept</a>, and more.
+      </p>
+    {% else %}
+      <p>
         Willkommen auf der Webseite der WHIP BDSM-Community in Leipzig – schön, dass Du da bist!<br/>
-        Unser Ziel ist es, einen Safer Space zu ermöglichen, um sich mit Gleichgesinnten über BDSM austauschen zu können. Hierbei ist unser Wunsch, einen Ort zu schaffen, an dem sich Leute öffnen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird.<br/>
-        Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.<br/>
+        Unser Ziel ist es, einen Safer Space zu ermöglichen, um sich mit Gleichgesinnten über BDSM austauschen zu können.
+      </p>
+      <p>
+        Hierbei ist unser Wunsch, einen Ort zu schaffen, an dem sich Leute öffnen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird.<br/>
         <br/>
-        <strong>Wir sind keine Partnerbörse oder Kontaktvermittlung.</strong>
-      {% endif %}
-    </p>
+        <strong>Wir sind keine Partnerbörse oder Kontaktvermittlung.</strong><br/>
+      </p>
+      <p>
+        Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.
+      </p>
+    {% endif %}
     {{content | safe}}
     <h2>{% if isEnglish %}Upcoming dates{% else %}Unsere nächsten Termine{% endif %}</h2>
     <ul>
