@@ -17,9 +17,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v7
     - name: Install Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v6
       with:
         node-version: '24.x'
     - name: 🚚 Install Dependencies...
@@ -29,11 +29,11 @@ jobs:
     - name: 🎉 Build...
       run: npm run build --if-present
     - name: 🚀 Setup pages...
-      uses: actions/configure-pages@v5
+      uses: actions/configure-pages@v6
     - name: 🚀 Upload artifact...
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v5
       with:
         path: '_site/'
     - name: 🚀 Deploy to GitHub Pages...
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v5
