@@ -8,7 +8,7 @@ Der Stammtischname ist ein Akronym und steht in seiner Gesamtform für "Welcome 
 ## An wen richtet sich der Stammtisch? Gibt es eine Altersbegrenzung?
 Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
 
-## Kann ich bei Euch eine Person zum Spielen finden?
+## Kann ich bei Euch eine Partnerperson finden?
 Wir legen einen sehr großen Fokus darauf, einen Safer Space für alle Anwesenden zu schaffen. Darunter verstehen wir einen Ort, an dem sich Leute austauschen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird. Unsere Community ist keine Partnerbörse oder Kontaktvermittlung.
 
 ## Ich bin schon etwas älter, was kann ich tun?
