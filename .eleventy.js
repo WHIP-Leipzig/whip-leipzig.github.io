@@ -7,10 +7,13 @@ export default function(eleventyConfig) {
 		interval: 500,
 	});
 
-  eleventyConfig.addShortcode("meetingDate", async function(meetingDate) {
+  eleventyConfig.addShortcode("meetingDate", async function(meetingDate, lang) {
     const meetingDateObj = new Date(meetingDate);
-    const days = ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"];
-    const formatter = new Intl.DateTimeFormat('de-DE', 
+    const days = {
+      "de": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+      "en": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    }
+    const formatter = new Intl.DateTimeFormat("de-DE", 
       { 
         day: '2-digit',
         month: '2-digit',
@@ -18,7 +21,7 @@ export default function(eleventyConfig) {
       }
     );
 
-    return `${days[meetingDateObj.getDay()]}, ${formatter.format(meetingDateObj)}`;
+    return `${days[lang][meetingDateObj.getDay()]}, ${formatter.format(meetingDateObj)}`;
    });
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});

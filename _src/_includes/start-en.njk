@@ -1,0 +1,49 @@
+{% set meetings = meetings %}
+{% include "templates/header.njk" %}
+{% set isEnglish = page.url and page.url.startsWith("/en/") %}
+
+  <main class="container">
+    <h1 id="welcome">{{ title }}</h1>
+      <p>
+        Welcome to the WHIP BDSM community in Leipzig — glad you’re here!<br/>
+        Our goal is to provide a safer space where like-minded people can connect and discuss BDSM.
+      </p>
+      <p>
+        We aim to create an environment where people feel comfortable opening up without having to worry that conversations will become too intense or uncomfortable.<br/>
+        <br/>
+        <strong>We are not a dating platform or a matchmaking service.</strong>
+      </p>
+      <p>
+        Here you’ll find information about <a href="/en/faq.html">us</a>, when we meet, our <a href="/en/konzept.html">concept</a> and more.
+      </p>
+    {{content | safe}}
+    <h2>Upcoming dates</h2>
+    <ul>
+      {% for meeting in meetings %}
+        <li>
+          {% switch meeting.type %}
+            {% case "meeting" %}
+              <a href="/en/faq.html#what-kinds-of-meetups-are-there-at-whip">WHIP meetup</a>:
+            {% case "play" %}
+              <a href="/en/faq.html#what-kinds-of-meetups-are-there-at-whip">Play-WHIP</a>:
+          {% endswitch %}
+            {% meetingDate meeting.date, 'en' %}
+          {% if meeting.topic %}
+          <br />
+          Topic: "{{ meeting.topic }}"
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+      <aside>
+        <strong>Please Note:</strong> Our community is primarily German-speaking and we don’t offer English-only meetups at the moment. That said, quite a few of our members enjoy speaking English and we’d be happy to welcome you even if you don’t speak German at all!
+      </aside>
+    <aside>
+      <h3>Tip:</h3>
+      <p>
+        To stay updated on new dates, you can <a href="{{ calendar.permalink }}">subscribe to this address</a> in your calendar.
+      </p>
+    </aside>
+  </main>
+
+{% include "templates/footer.njk" %}
