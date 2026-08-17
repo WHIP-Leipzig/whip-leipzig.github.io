@@ -2,11 +2,26 @@
   {
     "type": "meeting",
     "date": "2026-09-04",
-    "topic": ""
+    "topic": "Kink Outdoor"
   },
   {
     "type": "play",
     "date": "2026-09-08",
+    "topic": ""
+  },
+  {
+    "type": "meeting",
+    "date": "2026-10-02",
+    "topic": ""
+  },
+  {
+    "type": "meeting",
+    "date": "2026-11-13",
+    "topic": ""
+  },
+  {
+    "type": "meeting",
+    "date": "2026-12-04",
     "topic": ""
   }
 ]
