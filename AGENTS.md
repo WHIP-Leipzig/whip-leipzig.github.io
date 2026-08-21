@@ -70,17 +70,19 @@ That's not a style preference: a hash or nonce in `script-src` only covers `<scr
 never inline event-handler attributes on other tags, and inline-script hashing via a `<meta>`
 CSP has turned out to be unreliable across browsers in practice (it broke CSS loading in
 production once already — Safari refused to run a `<script>` block whose hash matched the CSP
-directive exactly). Keep any client-side behavior in an external, same-origin file under
-`_src/assets/js/`, referenced with `<script src="...">`, so `'self'` covers it unconditionally.
-See [_src/assets/js/loadcss.js](_src/assets/js/loadcss.js) for the current example (flips the
-preloaded stylesheet `<link>` to `rel="stylesheet"` once it has loaded).
+directive exactly). The site currently ships **no client-side JavaScript at all**. If you add
+any, put it in an external, same-origin file under `_src/assets/js/` (with a passthrough-copy
+entry in `.eleventy.js`) and reference it with `<script src="...">`, so `'self'` covers it
+unconditionally — don't reach for an inline `<script>` or a hash to make it work.
 
 ## Fonts
 
 Fonts are self-hosted as WOFF2 files under `_src/assets/fonts/` (see
 `_src/assets/css/_fonts.scss`), not embedded as base64 in the CSS — that would needlessly bloat
-the critical, preloaded `app.css`. Add new fonts as files plus a passthrough-copy entry in
-`.eleventy.js`, not inline.
+`app.css`. Add new fonts as files plus a passthrough-copy entry in `.eleventy.js`, not inline.
+`_src/_includes/templates/header.njk` preloads the heading font and uses `font-display: optional`
+rather than `swap`, so a slow font fetch never causes a layout shift after text has already
+rendered in the fallback font — it either shows up in time or the fallback stays for that visit.
 
 ## What's deliberately missing
 

@@ -56,7 +56,6 @@ export default function(eleventyConfig) {
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
   eleventyConfig.addPassthroughCopy({"_src/assets/fonts": "assets/fonts"});
-  eleventyConfig.addPassthroughCopy({"_src/assets/js": "assets/js"});
   eleventyConfig.addPassthroughCopy({"_src/robots.txt": "robots.txt"});
 
 	eleventyConfig.addPlugin(IdAttributePlugin);
