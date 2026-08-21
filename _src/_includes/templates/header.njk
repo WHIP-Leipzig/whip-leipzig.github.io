@@ -121,8 +121,8 @@
     <nav aria-label="Navigation">
       <ul>
         <li>
-          <a id="logo" href="{{ homeUrl }}" title="Startseite">
-            <img src="/assets/img/logo.svg" alt="Logo des WHIP Stammtisches" width="128" height="128" fetchpriority="high" />
+          <a id="logo" href="{{ homeUrl }}" title="{{ 'Home' if isEnglish else 'Startseite' }}">
+            <img src="/assets/img/logo.svg" alt="{{ 'Logo of the WHIP Stammtisch' if isEnglish else 'Logo des WHIP Stammtisches' }}" width="128" height="128" fetchpriority="high" />
           </a>
         </li>
       </ul>
