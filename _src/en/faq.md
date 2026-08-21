@@ -1,12 +1,12 @@
 ---
 title: "FAQ"
-description: "Answers to frequently asked questions about the WHIP Stammtisch in Leipzig: what to expect, our principles, how to join and more."
+description: "Answers to frequently asked questions about the WHIP meetup in Leipzig: what to expect, our principles, how to join and more."
 layout: "base.njk"
 ---
 ## What does WHIP stand for?
-The name of the Stammtisch is an acronym and stands in its full form for "Welcome Home Innocent Pervs".
+The name of the meetup is an acronym and stands in its full form for "Welcome Home Innocent Pervs".
 
-## Who is the Stammtisch aimed at? Is there an age limit?
+## Who is the meetup aimed at? Is there an age limit?
 This question is answered in our [Concept](/en/concept.html).
 
 ## Can I find a partner with you?
@@ -19,26 +19,26 @@ In Leipzig, we have the lovely people from [SMiLE (SM in Leipzig)](https://www.s
 We have no rules, but we have given ourselves [Principles](/en/principles.html).
 
 ## What kind of meetings does WHIP have?
-Currently, there is the **WHIP-Stammtisch**, where we gather in a cozy circle without playing, and the **Play-WHIP**, where we can also play in a closed society.
+Currently, there is the **WHIP meetup**, where we gather in a cozy circle without playing and the **Play-WHIP**, where we can also play in a closed society.
 
-## How often does the Stammtisch take place?
+## How often does the meetup take place?
 Each of our meetings currently takes place at least once a month.
 
-## Can I come if I've never been to a Stammtisch before?
-Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the Stammtisch, the [Principles](/en/principles.html), and some general information. This allows you to get to know the organizers and discuss open questions beforehand. It also gives you the opportunity to arrive not directly into an existing large group. We hope this makes arriving at our events easier for you.
+## Can I come if I've never been to a meetup before?
+Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the meetup, the [Principles](/en/principles.html) and some general information. This allows you to get to know the organizers and discuss open questions beforehand. It also gives you the opportunity to arrive not directly into an existing large group. We hope this makes arriving at our events easier for you.
 
 ## Is "Playing" allowed?
-### WHIP-Stammtisch
-At our regular Stammtisch, playing, i.e., the practice of BDSM, should be avoided. We have the venue to ourselves here, but the focus is on exchange. This allows for a low-threshold and simple entry for new people.
+### WHIP meetup
+At our regular meetup, playing, i.e., the practice of BDSM, should be avoided. We have the venue to ourselves here, but the focus is on exchange. This allows for a low-threshold and simple entry for new people.
 
 ### Play-WHIP
-Here we have the venue entirely to ourselves - so playing is allowed but not mandatory.
+Here we also have the venue entirely to ourselves, additionally playing is allowed but not mandatory.
 You should be considerate of the fact that people around you might be playing. However, there is no expectation or even obligation that the people present will play at all – [our principles](/en/principles.html) remain the top priority. The only hope is that we have a wonderful time together.
 
 If you play, please pay attention to your surroundings and let's see together what is acceptable for the venue. The limit of the venue so far is that non-sexual play remains non-sexual, so genitals must remain covered. 
 
 #### Important!
-The venue is video-monitored for safety reasons during our events. The recordings are automatically deleted after 48 hours and serve solely to protect the bar staff in case of any incidents. 
+The Play-WHIP venue is video-monitored for safety reasons during our events. The recordings are automatically deleted after 48 hours and serve solely to protect the bar staff in case of any incidents. 
 
 ## How do I reach the organizers? How can I contact you?
 The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+nErQRBpG9xFkNTc6).
@@ -51,7 +51,7 @@ Therefore, please note that we assume an account that joined is a bot if there i
 There are drinks at the venue at a price range that is self-determined within a specified range, depending on your own means. Food can be brought in; directly opposite, there is the option to get Kebab and pizza (also vegan). 
 
 ## How should I dress?
-### WHIP-Stammtisch
+### WHIP meetup
 Wear the outfit in which you feel most comfortable.
 
 ### Play-WHIP
