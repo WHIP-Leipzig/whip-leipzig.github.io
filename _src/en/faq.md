@@ -3,75 +3,71 @@ title: "FAQ"
 layout: "base.njk"
 ---
 ## What does WHIP stand for?
-The meetup name is an acronym and, in full, stands for “Welcome Home Innocent Pervs”.
+The name of the Stammtisch is an acronym and stands in its full form for "Welcome Home Innocent Pervs".
 
-## Who is the meetup for? Is there an age limit?
-This is answered in our [concept](/en/konzept.html).
+## Who is the Stammtisch aimed at? Is there an age limit?
+This question is answered in our [Concept](/en/concept.html).
 
-## Can I find a partner in this community?
-One of our core values is creating a Safer Space for all attendees. We define that as a place, where people can exchange without the fear of things getting uncomfortable (which sadly is very often the case in dating). We're not a dating platform.
+## Can I find a partner with you?
+We place a very strong focus on creating a Safer Space for all attendees. By this, we understand a place where people can exchange ideas and socialize without having to fear that it becomes too intense or uncomfortable. Our community is not a matchmaking service or partner exchange.
 
-## Are the meetings in English? Do you offer English meetings?
-Our community is primarily German-speaking and we don’t offer English-only meetups at the moment. That said, quite a few of our members enjoy speaking English and we’d be happy to welcome you even if you don’t speak German at all!
-
-## I'm older, is there something for me?
-The lovely people from [SMiLE (SM in Leipzig)](https://www.smile-leipzig.de/) are organizing regular German-speaking meetups.
+## I am a bit older, what can I do?
+In Leipzig, we have the lovely people from [SMiLE (SM in Leipzig)](https://www.smile-leipzig.de/), who also organize regular meetups. 
 
 ## What are your rules?
-We don’t have rules, but we have given ourselves [principles](/en/prinzipien.html).
+We have no rules, but we have given ourselves [Principles](/en/principles.html).
 
-## What kinds of meetups are there at WHIP?
-Currently there is the **WHIP meetup**, where we meet in a relaxed group at a public location, and **Play-WHIP**, where we can also play in a closed setting.
+## What kind of meetings does WHIP have?
+Currently, there is the **WHIP-Stammtisch**, where we gather in a cozy circle without playing, and the **Play-WHIP**, where we can also play in a closed society.
 
-## How often does the meetup take place?
-Each of our meetups currently takes place at least once per month.
+## How often does the Stammtisch take place?
+Each of our meetings currently takes place at least once a month.
 
-## Can I come even if I’ve never been to a meetup before?
-Of course! There is always a round for new people that starts 30 minutes before the official start. The organizers explain the meetup, [principles](/en/prinzipien.html), and some general information. This lets you get to know the organizers and ask open questions. It also gives you the opportunity to arrive without immediately joining a large, established group. We hope this makes arriving a bit easier.
+## Can I come if I've never been to a Stammtisch before?
+Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the Stammtisch, the [Principles](/en/principles.html), and some general information. This allows you to get to know the organizers and discuss open questions beforehand. It also gives you the opportunity to arrive not directly into an existing large group. We hope this makes arriving at our events easier for you.
 
-## Is “playing” allowed?
-### WHIP meetup
-At our regular meetup, public play — i.e. living out BDSM practices — should be avoided, since we are in a public place.
+## Is "Playing" allowed?
+### WHIP-Stammtisch
+At our regular Stammtisch, playing, i.e., the practice of BDSM, should be avoided. We have the venue to ourselves here, but the focus is on exchange. This allows for a low-threshold and simple entry for new people.
 
 ### Play-WHIP
-Here we have the location to ourselves — playing is allowed, but not required.
-You should be comfortable with the possibility that people might play around you. However, there is no expectation or obligation that people present have to play at all — [our principles](/en/prinzipien.html) still apply unchanged as the highest priority. The only hope is that we all have a wonderful time together.
+Here we have the venue entirely to ourselves - so playing is allowed but not mandatory.
+You should be considerate of the fact that people around you might be playing. However, there is no expectation or even obligation that the people present will play at all – [our principles](/en/principles.html) remain the top priority. The only hope is that we have a wonderful time together.
 
-If you play, please be mindful of your surroundings and let’s feel our way together towards what is acceptable for the venue. The current limit of the venue is that play remains non-sexual, i.e. genitals stay covered.
+If you play, please pay attention to your surroundings and let's see together what is acceptable for the venue. The limit of the venue so far is that non-sexual play remains non-sexual, so genitals must remain covered. 
 
-#### Important
-For safety reasons, the location is video monitored during our event. Recordings are automatically deleted after 48 hours and serve only to protect the bar staff in case of incidents.
+#### Important!
+The venue is video-monitored for safety reasons during our events. The recordings are automatically deleted after 48 hours and serve solely to protect the bar staff in case of any incidents. 
 
-## How do I reach the organizers? How can I get in touch?
-Best via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+nErQRBpG9xFkNTc6).
+## How do I reach the organizers? How can I contact you?
+The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+nErQRBpG9xFkNTc6).
+### Note:
+The invitation link is for the "Lounge" and not yet the main group - so we avoid bots in our main group. The organizers will then manually move you to the main group after a bot check. Please feel free to write how you found us or anything else you like - bots usually write nothing or about ominous job offers. 😁
 
-### Note
-The invite link is for the “Lounge” and not yet the main group — this helps us avoid bots in the main group. The organizers then manually move people into the main group after a bot check. Feel free to write how you found us or anything you like — bots usually don’t write anything or send shady job offers.
+Therefore, please note that we assume an account that joined is a bot if there is no reaction to our welcome message. In this case, we will remove the account from the channel for now. 
 
-Please note that we may assume an account is a bot if there is no response to our welcome message. In that case, we will remove the account from the channel for now.
-
-## Are food/drinks available on site?
-The venue offers food and drinks for purchase.
+## Is there food/drinks on site?
+There are drinks at the venue at a price range that is self-determined within a specified range, depending on your own means. Food can be brought in; directly opposite, there is the option to get Kebab and pizza (also vegan). 
 
 ## How should I dress?
-### WHIP meetup
-Wear whatever you feel most comfortable in. Just keep in mind that the venue is public.
+### WHIP-Stammtisch
+Wear the outfit in which you feel most comfortable.
 
 ### Play-WHIP
-Come in outfits you feel comfortable in, or change into something comfy/fancy/sexy on site if you like — it’s up to you.
+Come in the outfits in which you feel comfortable, or if you like, dress comfortably/chic/sexy on site if you wish. You have the choice.
 
-## I’m nervous to come (alone) — what can I do?
-That’s totally okay. If you want, you can ask a friend to come with you. That can make the first step easier.
+## I'm not brave enough (to come alone), what can I do?
+That's totally okay! If you like, you can ask a friend to accompany you. This makes the first step easier.
 
-## Does it cost anything to attend?
-We ask you to order something at the venue during the evening so they can cover their costs. On average that’s about 10–15€ over the evening. If that doesn’t work for you right now, that's totally okay as well of course.
+## Does a visit cost anything?
+No, the visit does not cost anything. However, it would be nice if the venues we are allowed to use get a little something. If you can therefore order a few drinks during the evening, that would be great.  
+Of course, it's also okay if that doesn't fit your budget right now.
 
 ## Are photos/videos allowed?
-To maintain a safer space, it is not permitted to take photos or videos of other people.
+In the spirit of the Safer Space, it is forbidden to take photos or videos of other people.
 
-## Is smoking allowed at the venue?
-There is no smoking inside the venue, but people can sometimes be found smoking outside.
+## Is smoking allowed in the venue?
+Smoking is not allowed inside the venue, but people who are smoking are sometimes seen outside.
 
-## My question wasn’t answered here…
-This FAQ is only a first starting point. If you have more questions, please talk to the organizers.
-
+## My question wasn't answered here...
+This FAQ is only a starting point for your questions. If you have further questions, please feel free to speak to the organizers.

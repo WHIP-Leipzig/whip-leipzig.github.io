@@ -1,0 +1,7 @@
+# _config.yml
+redirects:
+  /en/impressum: /en/imprint
+  /en/datenschutz: /en/privacy
+  /en/kontakt: /en/contact
+  /en/konzept: /en/concept
+  /en/prinzipien: /en/principles

@@ -18,7 +18,7 @@ Wir haben in Leipzig noch die lieben Menschys vom [SMiLE (SM in Leipzig)](https:
 Wir haben keine Regeln, aber haben uns selbst [Prinzipien](/prinzipien.html) gegeben.
 
 ## Was für Treffen gibt es beim WHIP?
-Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde an einem öffentlichen Ort zusammenkommen sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
+Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne Spielen zusammenkommen sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
@@ -28,7 +28,7 @@ Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem off
 
 ## Ist "Spielen" erlaubt?
 ### WHIP-Stammtisch
-Bei unserem regulären Stammtisch sollte öffentliches Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden, da wir uns an einem öffentlichen Ort befinden.
+Bei unserem regulären Stammtisch sollte Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden. Wir haben hier die Location zwar für uns, dennoch steht hier der Austausch im Mittelpunkt. Neuen Leuten soll so ein möglichst niederschwelliger und einfach Zugang ermöglicht werden.
 
 ### Play-WHIP
 Hier haben wir die Location ganz für uns - Spielen ist also erlaubt aber keine Pflicht.
@@ -47,11 +47,11 @@ Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so 
 Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beitretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
 
 ## Gibt es vor Ort Speisen/Getränke?
-Es gibt in der Location kostenpflichtige Speisen und Getränke.
+Es gibt in der Location Getränke mit einem Preis, der sich in einem angebenen Rahmen, je nach eigenen Möglichkeiten, selbst ausgesucht werden kann. Essen kann mitgebracht werden, direkt gegenüber gibt es die Möglichkeit Kebab und Pizza (auch vegan) zu bekommen. 
 
 ## Wie sollte ich mich kleiden?
 ### WHIP-Stammtisch
-Am besten in dem Outfit, in dem du dich am wohlsten fühlst. Achte nur darauf, dass die Location öffentlich ist.
+Am besten in dem Outfit, in dem du dich am wohlsten fühlst.
 
 ### Play-WHIP
 Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort noch bequem/schick/sexy an, wenn ihr das möchtet. Ihr habt die Wahl.
@@ -60,7 +60,8 @@ Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort 
 Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
 
 ## Kostet der Besuch etwas?
-Wir bitten euch in der Location über den Abend Getränke und gegebenenfalls Essen zu bestellen, damit sie auch Kosten gedeckt kriegt. Im Schnitt sind das ca. 10-15€ über den Abend. Sollte das aktuell für dich nicht passen, ist das natürlich okay.
+Nein, der Besuch kostet nichts. Es wäre aber schön, wenn die Orte an denen wir sein dürfen ein wenig davon haben. Wenn Ihr daher über den Abend ein paar Getränke bestellen könnt, wäre das großartig.  
+Sollte das aktuell für dich nicht passen, ist das natürlich auch okay.
 
 ## Sind Fotos/Videos erlaubt?
 Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Personen anzufertigen.

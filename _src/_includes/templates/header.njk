@@ -1,21 +1,10 @@
 {% set navigation = navigation %}
 {% set page = page %}
 {% set isEnglish = page.url and page.url.startsWith("/en/") %}
-{% set docLang = lang or "de" %}
-{% if isEnglish %}
-  {% set docLang = "en" %}
-{% endif %}
-{% set homeUrl = "/" %}
-{% if isEnglish %}
-  {% set homeUrl = "/en/" %}
-{% endif %}
-{% if isEnglish %}
-  {% set deUrl = page.url | replace("/en/", "/") %}
-  {% set enUrl = page.url %}
-{% else %}
-  {% set deUrl = page.url %}
-  {% set enUrl = "/en" + page.url %}
-{% endif %}
+{% set docLang = "en" if isEnglish else (lang or "de") %}
+{% set homeUrl = "/en/" if isEnglish else "/" %}
+{% set deUrl = page.url | translateUrl("de") %}
+{% set enUrl = page.url | translateUrl("en") %}
 <!DOCTYPE html>
 <html lang="{{ docLang }}">
 <head>
