@@ -63,23 +63,17 @@ guessing.
 
 The CSP is a `<meta http-equiv="Content-Security-Policy">` tag in
 `_src/_includes/templates/header.njk` (GitHub Pages doesn't let you set custom HTTP headers).
-The one permitted inline script is allowed via a SHA-256 hash, not `'unsafe-inline'`.
+`script-src` is just `'self'` — there is deliberately no inline `<script>` and no inline event
+handler attribute (`onload="..."`, `onclick="..."`, etc.) anywhere in the templates.
 
-**If the contents of that `<script>` block change, the hash must be recomputed**, or the browser
-will block the script:
-
-```bash
-python3 -c "
-import re, hashlib, base64
-content = open('_src/_includes/templates/header.njk').read()
-m = re.search(r'<script>\n(.*?)</script>', content, re.S)
-h = hashlib.sha256(m.group(1).encode('utf-8')).digest()
-print('sha256-' + base64.b64encode(h).decode())
-"
-```
-
-Put the resulting value into the `script-src` directive, then verify it against the rendered
-HTML with `npm run build && grep -o "script-src[^\"]*" _site/index.html`.
+That's not a style preference: a hash or nonce in `script-src` only covers `<script>` elements,
+never inline event-handler attributes on other tags, and inline-script hashing via a `<meta>`
+CSP has turned out to be unreliable across browsers in practice (it broke CSS loading in
+production once already — Safari refused to run a `<script>` block whose hash matched the CSP
+directive exactly). Keep any client-side behavior in an external, same-origin file under
+`_src/assets/js/`, referenced with `<script src="...">`, so `'self'` covers it unconditionally.
+See [_src/assets/js/loadcss.js](_src/assets/js/loadcss.js) for the current example (flips the
+preloaded stylesheet `<link>` to `rel="stylesheet"` once it has loaded).
 
 ## Fonts
 
