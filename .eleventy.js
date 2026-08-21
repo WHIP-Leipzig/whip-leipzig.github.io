@@ -55,8 +55,8 @@ export default function(eleventyConfig) {
    });
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
-  eleventyConfig.addPassthroughCopy({"_config.yml": "/_config.yml" });
-  
+  eleventyConfig.addPassthroughCopy({"_src/robots.txt": "robots.txt"});
+
 	eleventyConfig.addPlugin(IdAttributePlugin);
 
   eleventyConfig.addPlugin(eleventySass, {

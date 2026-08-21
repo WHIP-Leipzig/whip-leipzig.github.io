@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whip-leipzig.de/sitemap.xml
