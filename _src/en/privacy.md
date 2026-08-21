@@ -24,15 +24,26 @@ You have the right to obtain information about the origin, recipient, and purpos
 For this and for further questions on the subject of privacy, you can contact us at any time.
 
 ## 2. Hosting
-We host the content of our website with the following provider:
+Our host collects the following data in so-called log files, which your browser transmits:
 
-### IONOS
-The provider is IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Germany (hereinafter “IONOS”). When you visit our website, IONOS collects various log files including your IP addresses. Details can be found in IONOS’ privacy policy: https://www.ionos.de/terms-gtc/terms-privacy.
+IP address, the address of the previously visited website (referrer header), date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, the website from which the request originates, and information about the browser and operating system.
 
-IONOS is used on the basis of Art. 6(1)(f) GDPR. We have a legitimate interest in the most reliable possible presentation of our website. If a corresponding consent was requested, processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25(1) TDDDG, insofar as the consent includes the storage of cookies or access to information on the user’s terminal device (e.g. device fingerprinting) within the meaning of the TDDDG. Consent can be revoked at any time.
+This is necessary to display our website and to ensure stability and security. This corresponds to our legitimate interest within the meaning of Art. 6(1) sentence 1(f) GDPR. No tracking takes place and we have no direct access to this data.
 
-#### Data processing agreement
-We have concluded a data processing agreement (DPA) with the above provider. This is a contract required by data protection law which ensures that the provider processes the personal data of our website visitors only according to our instructions and in compliance with the GDPR.
+We use GitHub Pages to provide our website, which is operated by the following host:\
+\
+Microsoft Corporation\
+One Microsoft Way\
+Redmond, WA 98052-6399\
+USA
+
+This host is a recipient of your personal data. This corresponds to our legitimate interest within the meaning of Art. 6(1) sentence 1(f) GDPR in not having to maintain our own server on our premises. The server location is the USA. Further information on possibilities to object to and remove data with GitHub can be found at [this link](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#github-pages). You have the right to object to the processing. Whether the objection is successful depends on a balancing of interests. The data will be deleted once the purpose of the processing no longer applies. The processing of the data specified in this section is neither legally nor contractually required. However, the functionality of the website cannot be guaranteed without this processing.
+
+GitHub has implemented compliance measures for international data transfers. These apply to all of GitHub's worldwide activities in which GitHub processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). Further information can be found at [this link](https://docs.github.com/en/site-policy/privacy-policies#attachment-1--the-standard-contractual-clauses-processors).
+
+### Legal notes
+In principle, a data processing agreement must be concluded with the host. The Bavarian State Office for Data Protection Supervision has made [an exception](https://www.lda.bayern.de/media/veroeffentlichungen/FAQ_Hosting_keine_Auftragsverarbeitung.pdf) for the hosting of purely static websites. If the website serves purely for self-presentation, e.g. by associations or small businesses, no personal data flows to the operator, and no tracking takes place, there is no data-processing-agreement requirement. It further states: "The fact that hosting static websites inevitably requires processing IP addresses, i.e. personal data, does not lead to the assumption of a data-processing arrangement. That would not be appropriate. The (short-term) storage of IP addresses is rather attributable to the website host's provision of telecommunications access under the German Telecommunications Act (TKG) and primarily serves the host's security purposes."
+We assume that this exception applies to GitHub Pages.
 
 ## 3. General notes and mandatory information
 ### Privacy
@@ -119,5 +130,5 @@ The processing of this data is based on Art. 6(1)(b) GDPR, if your inquiry is re
 
 The data you send to us via inquiries remains with us until you request deletion, revoke your consent to storage, or the purpose for data storage no longer applies (e.g. after completion of processing your request). Mandatory statutory provisions — in particular statutory retention periods — remain unaffected.
 
-Source: https://www.e-recht24.de
+Source: [eRecht24](https://www.e-recht24.de), [opr.vc](https://opr.vc/docs/hosting/github_pages/)
 

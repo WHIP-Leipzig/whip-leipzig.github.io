@@ -2,7 +2,7 @@
 {% set isEnglish = page.url and page.url.startsWith("/en/") %}
 
   <footer class="container">
-    <nav aria-label="Rechtliche Informationen">
+    <nav aria-label="{{ 'Legal information' if isEnglish else 'Rechtliche Informationen' }}">
       <ul>
         {%- for entry in navigation %}
         {%- set entryIsEnglish = entry.url and entry.url.startsWith("/en/") %}
