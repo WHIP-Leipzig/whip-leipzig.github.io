@@ -1,5 +1,6 @@
 {% set meetings = meetings %}
 {% include "templates/header.njk" %}
+  <script type="application/ld+json">{% eventsJsonLd meetings, "de", page.url, site.url %}</script>
 
   <main class="container">
     <h1 id="welcome">{{ title }}</h1>

@@ -1,5 +1,6 @@
 ---
 title: "Prinzipien"
+description: "Konsens, Kommunikation und Respekt: die Prinzipien, die den WHIP-Stammtisch Leipzig für alle Teilnehmenden sicher machen."
 layout: "base.njk"
 ---
 Die Stammtischprinzipien gelten für alle Teilnehmenden des Stammtisches und sollen einen Rahmen für einen sicheren und gewaltfreien Umgang für alle Beteiligten sorgen. 

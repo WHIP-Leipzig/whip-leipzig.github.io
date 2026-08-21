@@ -1,5 +1,6 @@
 ---
 title: "Konzept"
+description: "Das Konzept des WHIP-Stammtisches Leipzig: Publikum, thematischer Schwerpunkt und Häufigkeit der Treffen."
 layout: "base.njk"
 ---
 ## Publikum

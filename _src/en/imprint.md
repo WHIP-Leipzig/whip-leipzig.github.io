@@ -1,5 +1,6 @@
 ---
 title: "Imprint"
+description: "Imprint of the WHIP Stammtisch in Leipzig."
 layout: "base.njk"
 ---
 Richard Richter\

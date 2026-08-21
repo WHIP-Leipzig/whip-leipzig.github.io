@@ -1,6 +1,7 @@
 {% set meetings = meetings %}
 {% include "templates/header.njk" %}
 {% set isEnglish = page.url and page.url.startsWith("/en/") %}
+  <script type="application/ld+json">{% eventsJsonLd meetings, "en", page.url, site.url %}</script>
 
   <main class="container">
     <h1 id="welcome">{{ title }}</h1>

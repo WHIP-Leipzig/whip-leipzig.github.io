@@ -1,5 +1,6 @@
 ---
 title: "FAQ"
+description: "Antworten auf häufige Fragen zum WHIP-Stammtisch Leipzig: Ablauf, Prinzipien, Anmeldung, Kleidung und mehr."
 layout: "base.njk"
 ---
 ## Wofür steht WHIP?

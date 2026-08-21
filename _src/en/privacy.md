@@ -1,5 +1,6 @@
 ---
 title: "Privacy"
+description: "Privacy policy of the WHIP Stammtisch in Leipzig."
 layout: "base.njk"
 ---
 ## 1. Privacy at a glance

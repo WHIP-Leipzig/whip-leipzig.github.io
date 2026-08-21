@@ -1,5 +1,6 @@
 ---
 title: "Concept"
+description: "The concept behind the WHIP Stammtisch in Leipzig: audience, thematic focus and how often we meet."
 layout: "base.njk"
 ---
 ## Audience

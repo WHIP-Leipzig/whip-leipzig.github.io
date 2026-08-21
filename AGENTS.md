@@ -6,8 +6,7 @@ itself, see [README.md](README.md).
 ## What this is
 
 A fully static [Eleventy](https://www.11ty.dev/) site, bilingual (DE/EN), served via GitHub
-Pages. No backend, no build step beyond Eleventy + Sass, no client-side JavaScript except a
-single CSS-preload polyfill in the `<head>`.
+Pages. No backend, no build step beyond Eleventy + Sass, no client-side JavaScript at all.
 
 ## Commands
 
@@ -83,6 +82,34 @@ Fonts are self-hosted as WOFF2 files under `_src/assets/fonts/` (see
 `_src/_includes/templates/header.njk` preloads the heading font and uses `font-display: optional`
 rather than `swap`, so a slow font fetch never causes a layout shift after text has already
 rendered in the fallback font — it either shows up in time or the fallback stays for that visit.
+
+## SEO
+
+`_src/_data/site.json` holds the canonical base URL (`site.url`) and site name (`site.name`) —
+the single source of truth used to build canonical links, hreflang links, Open Graph/Twitter
+tags and the Organization JSON-LD, all in `_src/_includes/templates/header.njk`.
+
+- **Meta description**: add a `description` field to a page's front matter (see any `.md` file
+  for examples). `header.njk` falls back to a site-wide default if it's missing — but a missing
+  per-page description means that page shares wording with every other page that also has none,
+  which defeats the point. Write one for every new content page, in both languages.
+- **hreflang / canonical**: computed automatically from `page.url` via the same
+  `translateUrl` filter the language switcher uses, so a page with a translated slug only needs
+  its `slugTranslations.json` entry (see above) — nothing else to wire up.
+- **`og-image.png`**: a rasterized version of `logo.svg` on the brand-dark background, used for
+  `og:image`/`twitter:image`. It's a generated asset, not hand-drawn — regenerate it (e.g. by
+  screenshotting the SVG on that background at 1200×1200) if the logo ever changes, rather than
+  hand-editing the PNG.
+- **Event JSON-LD**: `start-de.njk`/`start-en.njk` emit `schema.org/Event` markup for every entry
+  in `meetings.json`, built by the `eventsJsonLd` shortcode in `.eleventy.js`. Two things to keep
+  in mind if you touch this:
+  - `location` intentionally only ever contains the city ("Leipzig"), never a street address.
+    The exact venue is deliberately not published anywhere on this site (see
+    [faq.md](_src/faq.md) on the vetting process for new attendees) — don't let structured data
+    become the one place that leaks it.
+  - Start/end times are converted to Europe/Berlin's correct UTC offset via
+    `berlinUtcOffsetForDate()`, which is DST-aware (`+02:00` in summer, `+01:00` in winter). Don't
+    replace this with a hardcoded offset.
 
 ## What's deliberately missing
 

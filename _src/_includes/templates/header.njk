@@ -5,6 +5,12 @@
 {% set homeUrl = "/en/" if isEnglish else "/" %}
 {% set deUrl = page.url | translateUrl("de") %}
 {% set enUrl = page.url | translateUrl("en") %}
+{% set defaultDescription = "The WHIP Stammtisch in Leipzig offers a safer space for people under 40 to connect and discuss BDSM, built on consent, communication and respect." if isEnglish else "Der WHIP-Stammtisch in Leipzig bietet einen Safer Space für Menschen unter 40, um sich über BDSM auszutauschen, basierend auf Konsens, Kommunikation und Respekt." %}
+{% set metaDescription = description or defaultDescription %}
+{% set canonicalUrl = site.url + page.url %}
+{% set ogLocale = "en_US" if isEnglish else "de_DE" %}
+{% set ogLocaleAlternate = "de_DE" if isEnglish else "en_US" %}
+{% set fullTitle %}{% if title %}{{ title }} | {% endif %}{{ page.title }}{% endset %}
 <!DOCTYPE html>
 <html lang="{{ docLang }}">
 <head>
@@ -23,12 +29,26 @@
     crossorigin
   />
   <link rel="stylesheet" href="/assets/css/app.css" />
-  <meta
-    name="description"
-    content="Der WHIP Stammtisch in Leipzig bietet einen sicheren Raum für Menschen unter 40, um sich über BDSM auszutauschen, basierend auf Konsens, Kommunikation und Respekt."
-  />
-  <link rel="shortcut icon" href="/assets/img/logo.svg" />  
-  <title>{% if title %}{{ title }} | {% endif %}{{ page.title }}</title>
+  <meta name="description" content="{{ metaDescription }}" />
+  <link rel="canonical" href="{{ canonicalUrl }}" />
+  <link rel="alternate" hreflang="de" href="{{ site.url }}{{ deUrl }}" />
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ enUrl }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ deUrl }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ site.name }}" />
+  <meta property="og:title" content="{{ fullTitle }}" />
+  <meta property="og:description" content="{{ metaDescription }}" />
+  <meta property="og:url" content="{{ canonicalUrl }}" />
+  <meta property="og:locale" content="{{ ogLocale }}" />
+  <meta property="og:locale:alternate" content="{{ ogLocaleAlternate }}" />
+  <meta property="og:image" content="{{ site.url }}/assets/img/og-image.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ fullTitle }}" />
+  <meta name="twitter:description" content="{{ metaDescription }}" />
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/og-image.png" />
+  <link rel="shortcut icon" href="/assets/img/logo.svg" />
+  <title>{{ fullTitle }}</title>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"{{ site.url }}/#organization","name":"{{ site.name }}","url":"{{ site.url }}/","logo":"{{ site.url }}/assets/img/logo.svg","email":"mailto:kontakt@whip-leipzig.de"}</script>
 </head>
 <body>
   <header class="container">

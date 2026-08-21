@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+description: "Impressum des WHIP-Stammtisches Leipzig."
 layout: "base.njk"
 ---
 Richard Richter\

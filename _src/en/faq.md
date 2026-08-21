@@ -1,5 +1,6 @@
 ---
 title: "FAQ"
+description: "Answers to frequently asked questions about the WHIP Stammtisch in Leipzig: what to expect, our principles, how to join and more."
 layout: "base.njk"
 ---
 ## What does WHIP stand for?

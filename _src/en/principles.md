@@ -1,5 +1,6 @@
 ---
 title: "Principles"
+description: "Consent, communication and respect: the principles that keep the WHIP Stammtisch in Leipzig safe for everyone attending."
 layout: "base.njk"
 ---
 These principles apply to everyone attending the meetup and are meant to provide a framework for safe, non-violent interaction for everyone involved.

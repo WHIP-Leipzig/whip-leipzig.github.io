@@ -1,5 +1,6 @@
 ---
 title: "Datenschutz"
+description: "Datenschutzerklärung des WHIP-Stammtisches Leipzig."
 layout: "base.njk"
 ---
 ## 1. Datenschutz auf einen Blick
