@@ -101,15 +101,28 @@ tags and the Organization JSON-LD, all in `_src/_includes/templates/header.njk`.
   screenshotting the SVG on that background at 1200×1200) if the logo ever changes, rather than
   hand-editing the PNG.
 - **Event JSON-LD**: `start-de.njk`/`start-en.njk` emit `schema.org/Event` markup for every entry
-  in `meetings.json`, built by the `eventsJsonLd` shortcode in `.eleventy.js`. Two things to keep
-  in mind if you touch this:
-  - `location` intentionally only ever contains the city ("Leipzig"), never a street address.
-    The exact venue is deliberately not published anywhere on this site (see
-    [faq.md](_src/faq.md) on the vetting process for new attendees) — don't let structured data
-    become the one place that leaks it.
-  - Start/end times are converted to Europe/Berlin's correct UTC offset via
-    `berlinUtcOffsetForDate()`, which is DST-aware (`+02:00` in summer, `+01:00` in winter). Don't
-    replace this with a hardcoded offset.
+  in `meetings.json`, built by the `eventsJsonLd` shortcode in `.eleventy.js`. `location`
+  intentionally only ever contains the city ("Leipzig"), never a street address — the exact venue
+  is deliberately not published anywhere on this site (see [faq.md](_src/faq.md) on the vetting
+  process for new attendees) — don't let structured data become the one place that leaks it.
+
+## Meeting times: Europe/Berlin, not the build machine's clock
+
+`meetings.json` gives times implicitly (19:00–23:00, see `feed.11ty.js`) as Europe/Berlin
+wall-clock time. [lib/time.js](lib/time.js)'s `berlinIsoDateTime(date, time)` converts that to a
+proper ISO 8601 string with the correct, DST-aware UTC offset (`+02:00` in summer, `+01:00` in
+winter) — both `feed.11ty.js` (the `/treffen.ics` calendar feed) and the `eventsJsonLd` shortcode
+in `.eleventy.js` use it. Don't hardcode an offset, and don't reintroduce
+`cal.timezone({name: 'Europe/Berlin', ...})` in `feed.11ty.js` even though it looks like the
+"proper" way to declare the calendar's zone: this project tried that with `timezones-ical-library`
+before, and it silently produced wrong event times, because ical-generator resolves a named
+timezone using the **build machine's own local clock** (`Date.prototype.getHours()` etc.), not an
+actual Europe/Berlin conversion. That happened to look correct when built on a machine that was
+itself set to Europe/Berlin and wrong on GitHub Actions (UTC) — exactly the kind of bug that
+passes locally and breaks in CI. Emitting plain UTC instants (as `berlinIsoDateTime` + a bare
+`Z` suffix does) sidesteps the whole problem and is also what the ical-generator README itself
+recommends. If you need to verify this again, rebuild with `TZ=UTC npx eleventy` and
+`TZ=America/New_York npx eleventy` and diff `_site/treffen.ics` — it must not change.
 
 ## What's deliberately missing
 

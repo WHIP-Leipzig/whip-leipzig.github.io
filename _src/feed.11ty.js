@@ -1,6 +1,6 @@
 import { ICalCalendar, ICalAlarmType, ICalCalendarMethod } from 'ical-generator';
-import { tzlib_get_ical_block } from 'timezones-ical-library';
 import calendar from './_data/calendar.json' with { type: 'json' };
+import { berlinIsoDateTime } from '../lib/time.js';
 
 export default class FeedTemplate {
   // Setup Eleventy data for this template,
@@ -27,25 +27,26 @@ export default class FeedTemplate {
       url: calendar.url + this.page.url,
       method: ICalCalendarMethod.PUBLISH,
     })
-    
-    cal.timezone({
-      name: 'Europe/Berlin',
-      generator: (tz) => tzlib_get_ical_block(tz)[0],
-    });
+
+    // Events are given as absolute UTC instants (see berlinIsoDateTime), not as
+    // "19:00 in whichever zone the calendar declares" — ical-generator resolves the
+    // latter using the *build machine's own* local time zone, not the named one, which
+    // silently produced wrong times whenever CI (UTC) and a contributor's laptop
+    // (Europe/Berlin) disagreed. Plain UTC timestamps have no such ambiguity.
 
     // Loop through of each of our events using the collection
     for (const meeting of meetings) {
       // Create a calendar event from each page
       const event = cal.createEvent({
         id: `${meeting.type.toUpperCase()}-${meeting.date}`,
-        start: `${meeting.date}T${startTime}Z`,
-        end: `${meeting.date}T${endTime}Z`,
+        start: berlinIsoDateTime(meeting.date, startTime),
+        end: berlinIsoDateTime(meeting.date, endTime),
         summary: meeting.type === "meeting" ? "WHIP-Stammtisch" : "Play-WHIP",
         description: meeting.topic ? `Thema: ${meeting.topic}` : ""
       })
 
       // Add an alert to the event
-      const alarm = new Date(`${meeting.date}T${startTime}Z`);
+      const alarm = new Date(berlinIsoDateTime(meeting.date, startTime));
       alarm.setMinutes(alarm.getMinutes() - 120); // 2 hours before the event
       event.createAlarm({
         type: ICalAlarmType.display,

@@ -1,6 +1,7 @@
 import { IdAttributePlugin } from "@11ty/eleventy";
 import eleventySass from "eleventy-sass";
 import slugTranslations from "./_src/_data/slugTranslations.json" with { type: "json" };
+import { berlinIsoDateTime } from "./lib/time.js";
 
 // Given a page url in either language, return the equivalent url in targetLang ("de" or "en").
 function translateUrl(url, targetLang) {
@@ -19,23 +20,6 @@ function translateUrl(url, targetLang) {
     return `/${deSlug}.html`;
   }
   return `/en/${slugTranslations[slug] || slug}.html`;
-}
-
-// Europe/Berlin's UTC offset ("+02:00"/"+01:00") for a given "YYYY-MM-DD" date, DST-aware.
-// Probing at noon UTC avoids the date ever landing on the "wrong side" of midnight in Berlin.
-function berlinUtcOffsetForDate(dateStr) {
-  const noonUtc = new Date(`${dateStr}T12:00:00Z`);
-  const parts = new Intl.DateTimeFormat("en-US", {
-    timeZone: "Europe/Berlin",
-    timeZoneName: "shortOffset",
-  }).formatToParts(noonUtc);
-  const tzName = parts.find((p) => p.type === "timeZoneName").value;
-  const hours = parseInt(tzName.replace("GMT", ""), 10) || 0;
-  return `${hours >= 0 ? "+" : "-"}${String(Math.abs(hours)).padStart(2, "0")}:00`;
-}
-
-function berlinIsoDateTime(dateStr, timeStr) {
-  return `${dateStr}T${timeStr}:00${berlinUtcOffsetForDate(dateStr)}`;
 }
 
 const eventNames = {
