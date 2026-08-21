@@ -5,12 +5,13 @@
 {% set homeUrl = "/en/" if isEnglish else "/" %}
 {% set deUrl = page.url | translateUrl("de") %}
 {% set enUrl = page.url | translateUrl("en") %}
-{% set defaultDescription = "The WHIP Stammtisch in Leipzig offers a safer space for people under 40 to connect and discuss BDSM, built on consent, communication and respect." if isEnglish else "Der WHIP-Stammtisch in Leipzig bietet einen Safer Space für Menschen unter 40, um sich über BDSM auszutauschen, basierend auf Konsens, Kommunikation und Respekt." %}
+{% set defaultDescription = "The WHIP Stammtisch in Leipzig: a safer space for people under 40 to discuss BDSM, built on consent and respect." if isEnglish else "Der WHIP-Stammtisch in Leipzig: ein Safer Space für Menschen unter 40 zum Austausch über BDSM, basierend auf Konsens und Respekt." %}
 {% set metaDescription = description or defaultDescription %}
 {% set canonicalUrl = site.url + page.url %}
 {% set ogLocale = "en_US" if isEnglish else "de_DE" %}
 {% set ogLocaleAlternate = "de_DE" if isEnglish else "en_US" %}
 {% set fullTitle %}{% if title %}{{ title }} | {% endif %}{{ page.title }}{% endset %}
+{% set imageAlt = "Logo of the WHIP Stammtisch" if isEnglish else "Logo des WHIP Stammtisches" %}
 <!DOCTYPE html>
 <html lang="{{ docLang }}">
 <head>
@@ -42,10 +43,15 @@
   <meta property="og:locale" content="{{ ogLocale }}" />
   <meta property="og:locale:alternate" content="{{ ogLocaleAlternate }}" />
   <meta property="og:image" content="{{ site.url }}/assets/img/og-image.png" />
-  <meta name="twitter:card" content="summary" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="{{ imageAlt }}" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ fullTitle }}" />
   <meta name="twitter:description" content="{{ metaDescription }}" />
   <meta name="twitter:image" content="{{ site.url }}/assets/img/og-image.png" />
+  <meta name="twitter:image:alt" content="{{ imageAlt }}" />
   <link rel="shortcut icon" href="/assets/img/logo.svg" />
   <title>{{ fullTitle }}</title>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"{{ site.url }}/#organization","name":"{{ site.name }}","url":"{{ site.url }}/","logo":"{{ site.url }}/assets/img/logo.svg","email":"mailto:kontakt@whip-leipzig.de"}</script>
