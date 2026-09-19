@@ -15,6 +15,16 @@
     "topic": ""
   },
   {
+    "type": "play",
+    "date": "2026-10-06",
+    "topic": "Whips"
+  },
+  {
+    "type": "play",
+    "date": "2026-11-10",
+    "topic": "Whips"
+  },
+  {
     "type": "meeting",
     "date": "2026-11-13",
     "topic": ""
@@ -23,5 +33,10 @@
     "type": "meeting",
     "date": "2026-12-04",
     "topic": ""
+  },
+  {
+    "type": "play",
+    "date": "2026-12-08",
+    "topic": "Whips"
   }
 ]
