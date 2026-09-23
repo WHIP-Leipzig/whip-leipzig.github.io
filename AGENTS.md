@@ -40,7 +40,7 @@ and produce all expected pages under `_site/` (currently 22 files: DE and EN pag
   `_src/_data/legallinks.json` / the same file (`legallinks` field) maintain header and footer
   navigation separately per language. A new page in the main nav needs entries in both language
   variants.
-- `_src/_data/page.json` defines `page.title` as a global fallback title. This works because
+- `_src/_data/site.json` defines `site.title` as a global fallback title. This works because
   Eleventy deep-merges global data into its reserved `page` variable — not obvious, but
   intentional. Don't accidentally introduce another top-level `page` key that would clobber it.
 - `_src/_data/meetings.json` is the single source of truth for meeting dates. It feeds both the

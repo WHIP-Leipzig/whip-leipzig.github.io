@@ -45,6 +45,15 @@ header.container > nav {
   margin-bottom: 0;
 }
 
+aside li {
+  padding: 0;
+  display: list-item;
+
+  a {
+    display: inline;
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   @view-transition {
     navigation: auto;

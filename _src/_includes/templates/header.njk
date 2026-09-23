@@ -10,7 +10,7 @@
 {% set canonicalUrl = site.url + page.url %}
 {% set ogLocale = "en_US" if isEnglish else "de_DE" %}
 {% set ogLocaleAlternate = "de_DE" if isEnglish else "en_US" %}
-{% set fullTitle %}{% if title %}{{ title }} | {% endif %}{{ page.title }}{% endset %}
+{% set fullTitle %}{% if title %}{{ title }} | {% endif %}{{ site.title }}{% endset %}
 {% set imageAlt = "Logo of the WHIP Stammtisch" if isEnglish else "Logo des WHIP Stammtisches" %}
 <!DOCTYPE html>
 <html lang="{{ docLang }}">
