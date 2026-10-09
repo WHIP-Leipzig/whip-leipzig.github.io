@@ -40,9 +40,9 @@ and produce all expected pages under `_site/` (currently 22 files: DE and EN pag
   `_src/_data/legallinks.json` / the same file (`legallinks` field) maintain header and footer
   navigation separately per language. A new page in the main nav needs entries in both language
   variants.
-- `_src/_data/site.json` defines `site.title` as a global fallback title. This works because
-  Eleventy deep-merges global data into its reserved `page` variable — not obvious, but
-  intentional. Don't accidentally introduce another top-level `page` key that would clobber it.
+- `site.name` from `_src/_data/site.json` is the site-wide title suffix (`<title>`, `og:title`,
+  `twitter:title` all render as `{{ title }} | {{ site.name }}` in `header.njk`). There is no
+  separate `site.title` — don't reference one.
 - `_src/_data/meetings.json` is the single source of truth for meeting dates. It feeds both the
   meeting list on the homepage (`start-de.njk`/`start-en.njk`) and the iCal feed
   (`_src/feed.11ty.js`, served as `/treffen.ics`). A meeting without a `topic` needs the empty
