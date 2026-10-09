@@ -70,5 +70,23 @@ In the spirit of the Safer Space, it is forbidden to take photos or videos of ot
 ## Is smoking allowed in the venue?
 Smoking is not allowed inside the venue, but people who are smoking are sometimes seen outside.
 
+## I'm struggling with my kink/interests — what can I do?
+We're really sorry you're feeling this way, but help is available!
+If you have a GP you trust, they can be your first point of contact.
+
+Additionally, there are some more offers, but these are mostly in German.
+
+For direct support:
+- TelefonSeelsorge (phone counseling) at [0800 111 0 111](tel:+498001110111), [0800 111 0 222](tel:+498001110222) and [116 123](tel:116123), or online at
+[www.telefonseelsorge.de](https://www.telefonseelsorge.de)
+- SeeleFon at [0228 7100 24 24](tel:+4922871002424) or [www.bapk.de](https://www.bapk.de)
+- Caritas online counseling: [www.caritas.de](https://www.caritas.de/hilfeundberatung/onlineberatung)
+
+You can find therapists here:
+- [www.weisse-liste.de](https://www.weisse-liste.de)
+- [www.bptk.de](https://www.bptk.de/service/therapeutensuche)
+
+If you are a refugee, there is also [Queer Refugees](https://queer-refugees.de).
+
 ## My question wasn't answered here...
 This FAQ is only a starting point for your questions. If you have further questions, please feel free to speak to the organizers.

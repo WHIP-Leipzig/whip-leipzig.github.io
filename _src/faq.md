@@ -70,5 +70,20 @@ Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Person
 ## Wird in der Location geraucht?
 In der Location selbst wird nicht geraucht, aber davor sind zuweilen rauchende Menschen anzutreffen.
 
+## Ich verspüre einen Leidensdruck mit meinen Neigungen, was kann ich tun?
+Das tut uns sehr Leid, aber es gibt Hilfe!
+Wenn Du eine Hausarztperson hast und ihr vertraust, kann diese Person die erste Ansprechperson sein.
+
+Dazu gibt es für direkte Hilfe:
+- die TelefonSeelsorge unter [0800 111 0 111](tel:+498001110111), [0800 111 0 222](tel:+498001110222) und [116123](tel:116123) sowie online unter [www.telefonseelsorge.de](https://www.telefonseelsorge.de)
+- das SeeleFon unter [0228 7100 24 24](tel:+4922871002424) bzw. [www.bapk.de](https://www.bapk.de)
+- die Online-Beratung der Caritas: [www.caritas.de](https://www.caritas.de/hilfeundberatung/onlineberatung)
+
+Therapeutys kannst Du hier finden:
+- [www.weisse-liste.de](https://www.weisse-liste.de)
+- [www.bptk.de](https://www.bptk.de/service/therapeutensuche)
+
+Wenn Du eine geflüchtete Person bist, gibt es noch die [Queer Refugees](https://queer-refugees.de).
+
 ## Meine Frage wurde hier nicht beantwortet...
 Diese FAQ ist nur ein erster Anlaufpunkt für deine Fragen. Solltest du weitere haben, sprich gerne die Orgas an.
