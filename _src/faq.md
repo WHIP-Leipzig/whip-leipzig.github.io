@@ -41,7 +41,7 @@ Wenn ihr spielt, achtet bitte auf eure Umgebung und lasst uns gemeinsam herantas
 Die Location ist aus sicherheitstechnischen Gründen während unserer Veranstaltung videoüberwacht. Die Aufnahmen werden nach 48h automatisch gelöscht und dienen lediglich der Absicherung des Barpersonals, falls es zu irgendwelchen Vorfällen käme. 
 
 ## Wie erreiche ich die Orga? Wie kann ich Kontakt aufnehmen?
-Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+nErQRBpG9xFkNTc6).
+Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+ohpo9UueL2AwNmQy).
 ### Hinweis:
 Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe. Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. Schreibt gern wie Ihr zu uns gefunden habt oder was auch immer Ihr mögt - Bots schreiben nämlich meist gar nichts oder über ominöse Jobangebote. 😁
 
