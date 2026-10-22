@@ -41,7 +41,7 @@ If you play, please pay attention to your surroundings and let's see together wh
 The Play-WHIP venue is video-monitored for safety reasons during our events. The recordings are automatically deleted after 48 hours and serve solely to protect the bar staff in case of any incidents. 
 
 ## How do I reach the organizers? How can I contact you?
-The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+nErQRBpG9xFkNTc6).
+The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+ohpo9UueL2AwNmQy).
 ### Note:
 The invitation link is for the "Lounge" and not yet the main group - so we avoid bots in our main group. The organizers will then manually move you to the main group after a bot check. Please feel free to write how you found us or anything else you like - bots usually write nothing or about ominous job offers. 😁
 
