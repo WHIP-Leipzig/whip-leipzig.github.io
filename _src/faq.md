@@ -80,6 +80,15 @@ Sollte das aktuell für dich nicht passen, ist das natürlich auch okay.
 ## Wird in der Location geraucht?
 In der Location selbst wird nicht geraucht, aber davor sind zuweilen rauchende Menschen anzutreffen.
 
+## Sind die Locations barrierefrei?
+Leider nur teilweise:
+- **WHIP-Stammtisch:** Die Location ist über eine Rampe erreichbar, zur Toilette führt allerdings eine Stufe.
+- **Play-WHIP:** Die Location ist nur über eine Treppe erreichbar und daher leider nicht barrierefrei.
+
+Bei beiden Treffen ist das Licht eher gedimmt, damit es gemütlich ist, und im Hintergrund läuft Musik – aber nicht zu laut.
+
+Wenn du Fragen hast oder Unterstützung brauchst, [schreib uns gern](#wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen) – wir schauen gemeinsam, was möglich ist.
+
 ## Ich traue mich nicht (alleine) vorbeizukommen, was kann ich tun?
 Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
 

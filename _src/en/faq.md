@@ -80,6 +80,15 @@ Of course, it's also okay if that doesn't fit your budget right now.
 ## Is smoking allowed in the venue?
 Smoking is not allowed inside the venue, but you'll sometimes find people smoking outside.
 
+## Are the venues accessible?
+Only partly, unfortunately:
+- **WHIP meetup:** The venue can be reached via a ramp, but there is one step up to the toilet.
+- **Play-WHIP:** The venue can only be reached via a staircase, so it is unfortunately not accessible.
+
+Both meetups have rather dim lighting to keep things cozy, and there's music in the background – but not too loud.
+
+If you have questions or need support, [feel free to reach out](#how-do-i-reach-the-organizers-how-can-i-contact-you) – we'll look together at what's possible.
+
 ## I'm not brave enough (to come alone), what can I do?
 That's totally okay! If you like, you can ask a friend to accompany you. This makes the first step easier.
 

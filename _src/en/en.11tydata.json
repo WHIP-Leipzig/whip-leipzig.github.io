@@ -44,6 +44,7 @@
           { "id": "are-there-food-drinks-on-site", "label": "Food & drinks" },
           { "id": "does-a-visit-cost-anything", "label": "Cost" },
           { "id": "is-smoking-allowed-in-the-venue", "label": "Smoking" },
+          { "id": "are-the-venues-accessible", "label": "Accessibility" },
           { "id": "i-m-not-brave-enough-to-come-alone-what-can-i-do", "label": "Rather not come alone?" }
         ]
       },

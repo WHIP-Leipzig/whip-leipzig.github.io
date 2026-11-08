@@ -33,6 +33,7 @@
         { "id": "gibt-es-vor-ort-speisen-getraenke", "label": "Essen & Trinken" },
         { "id": "kostet-der-besuch-etwas", "label": "Kosten" },
         { "id": "wird-in-der-location-geraucht", "label": "Rauchen" },
+        { "id": "sind-die-locations-barrierefrei", "label": "Barrierefreiheit" },
         { "id": "ich-traue-mich-nicht-alleine-vorbeizukommen-was-kann-ich-tun", "label": "Lieber nicht alleine?" }
       ]
     },
