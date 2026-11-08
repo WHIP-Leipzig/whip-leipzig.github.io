@@ -12,7 +12,7 @@ Der Stammtischname ist ein Akronym und steht in seiner Gesamtform für "Welcome 
 Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
 
 ## Passe ich zu euch?
-Wenn du dich in unserem [Konzept](/konzept.html) wiederfindest: sehr wahrscheinlich! Du musst keine Erfahrung mitbringen und nichts über dich festlegen – viele kommen erst mal aus Neugier. Neigungen bewerten wir nicht, uns ist nur wichtig, dass alles im Konsens passiert.
+Wenn du dich in unserem [Konzept](/konzept.html) wiederfindest: sehr wahrscheinlich! Du musst keine Erfahrung mitbringen und nichts über dich festlegen. Viele kommen erst mal aus Neugier. Neigungen bewerten wir nicht, uns ist nur wichtig, dass alles im Konsens passiert.
 
 ## Kann ich bei euch eine Partnerperson finden?
 **Unsere Community ist keine Partnerbörse oder Kontaktvermittlung.**<br/>
@@ -25,21 +25,21 @@ Wir haben in Leipzig noch die lieben Menschys vom [SMiLE (SM in Leipzig)](https:
 Wir haben keine Regeln, aber haben uns selbst [Prinzipien](/prinzipien.html) gegeben.
 
 ## Was mache ich, wenn jemand meine Grenzen überschreitet?
-Sprich uns bitte an – jederzeit, ob vor Ort oder danach. Vor Ort erkennst du die Orga an unseren Badges, außerdem sind wir in der Telegramgruppe und in der Lounge markiert. Nach dem Treffen erreichst du uns per [E-Mail](mailto:kontakt@whip-leipzig.de) oder per Direktnachricht auf Telegram.
+Sprich uns bitte jederzeit an, ob vor Ort oder danach. Vor Ort erkennst du die Orga an unseren Badges, außerdem sind wir in der Telegramgruppe und in der Lounge markiert. Nach dem Treffen erreichst du uns per [E-Mail](mailto:kontakt@whip-leipzig.de) oder per Direktnachricht auf Telegram.
 
 Das gilt genauso, wenn du so ein Verhalten bei anderen beobachtest. Uns als Orga ist es sehr wichtig, dass wir uns solidarisch an deine Seite stellen. Menschen, die nicht akzeptieren, dass Konsens nur besteht, wenn er freiwillig, widerrufbar, informiert, enthusiastisch und spezifisch ist, haben in unserer Community keinen Platz.
 
 ## Bleibt, was ich erzähle, unter uns?
-Beim Stammtisch teilen Menschen oft sehr Persönliches. Wir vertrauen darauf, dass alle sorgsam damit umgehen – was jemand erzählt und wer da war, bleibt bei uns. Aus demselben Grund gibt es bei uns auch [keine Fotos oder Videos](#sind-fotos-videos-erlaubt).
+Beim Stammtisch teilen Menschen oft sehr Persönliches. Wir vertrauen darauf, dass alle sorgsam damit umgehen: Was jemand erzählt und wer da war, bleibt bei uns. Aus demselben Grund gibt es bei uns auch [keine Fotos oder Videos](#sind-fotos-videos-erlaubt).
 
 ## Was ist kooperative Kommunikation?
-Gemeint ist eine Art zu sprechen, die auf der [Gewaltfreien Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation) nach Marshall B. Rosenberg aufbaut: beschreiben, was man beobachtet hat, wie es einem damit geht, was man braucht und worum man bittet – ohne Vorwürfe.
+Gemeint ist eine Art zu sprechen, die auf der [Gewaltfreien Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation) nach Marshall B. Rosenberg aufbaut: ohne Vorwürfe beschreiben, was man beobachtet hat, wie es einem damit geht, was man braucht und worum man bittet.
 
 ## Sind Fotos/Videos erlaubt?
 Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Personen anzufertigen.
 
 ## Was für Treffen gibt es beim WHIP?
-Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne Spielen zusammenkommen sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
+Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne Spielen zusammenkommen, sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
@@ -56,7 +56,7 @@ Bei unserem regulären Stammtisch sollte Spielen, d.h. das Ausleben von BDSM-Pra
 
 ### Play-WHIP
 Hier haben wir die Location auch ganz für uns - Spielen ist erlaubt aber keine Pflicht.
-Ihr solltet aber fein damit sein, dass um euch herum gespielt werden könnte. Allerdings besteht keine Erwartung oder sogar Pflicht, dass die anwesenden Menschys überhaupt spielen – [unsere Prinzipien](/prinzipien.html) stehen dabei nach wie vor unberührt an oberster Stelle. Die einzige Hoffnung ist, dass wir eine wundervolle Zeit zusammen haben.
+Ihr solltet aber fein damit sein, dass um euch herum gespielt werden könnte. Allerdings besteht keine Erwartung oder sogar Pflicht, dass die anwesenden Menschys überhaupt spielen. [Unsere Prinzipien](/prinzipien.html) stehen dabei nach wie vor unberührt an oberster Stelle. Die einzige Hoffnung ist, dass wir eine wundervolle Zeit zusammen haben.
 
 Wenn ihr spielt, achtet bitte auf eure Umgebung und lasst uns gemeinsam herantasten, was für die Location vertretbar ist. Das Limit der Location ist bisher, dass es bei nicht sexuellem Spielen bleibt, Genitalien also auch eingepackt bleiben. 
 
@@ -85,9 +85,9 @@ Leider nur teilweise:
 - **WHIP-Stammtisch:** Die Location ist über eine Rampe erreichbar, zur Toilette führt allerdings eine Stufe.
 - **Play-WHIP:** Die Location ist nur über eine Treppe erreichbar und daher leider nicht barrierefrei.
 
-Bei beiden Treffen ist das Licht eher gedimmt, damit es gemütlich ist, und im Hintergrund läuft Musik – aber nicht zu laut.
+Bei beiden Treffen ist das Licht eher gedimmt, damit es gemütlich ist. Im Hintergrund läuft Musik, aber nicht zu laut.
 
-Wenn du Fragen hast oder Unterstützung brauchst, [schreib uns gern](#wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen) – wir schauen gemeinsam, was möglich ist.
+Wenn du Fragen hast oder Unterstützung brauchst, [schreib uns gern](#wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen). Wir schauen gemeinsam, was möglich ist.
 
 ## Ich traue mich nicht (alleine) vorbeizukommen, was kann ich tun?
 Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
