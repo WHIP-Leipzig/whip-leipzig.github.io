@@ -3,7 +3,7 @@ title: "FAQ"
 description: "Answers to frequently asked questions about the WHIP meetup in Leipzig: what to expect, our principles, how to join and more."
 layout: "base.njk"
 ---
-{% faqOverview faqOverview %}
+{% faqOverview %}
 
 ## What does WHIP stand for?
 The meetup's name is an acronym; in full, it stands for "Welcome Home Innocent Pervs".

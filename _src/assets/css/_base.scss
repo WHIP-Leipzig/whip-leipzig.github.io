@@ -54,6 +54,54 @@ aside li {
   }
 }
 
+.faq-overview {
+  font-size: 0.8rem;
+  padding: var(--pico-spacing);
+  margin-bottom: calc(var(--pico-spacing) * 2);
+  border-radius: var(--pico-border-radius);
+  background: var(--pico-card-background-color);
+  box-shadow: var(--pico-card-box-shadow);
+
+  h2 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  h3 {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: 600;
+    color: var(--pico-muted-color);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.35rem;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    margin-bottom: 0.2rem;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.faq-overview-groups {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem 1.5rem;
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   @view-transition {
     navigation: auto;

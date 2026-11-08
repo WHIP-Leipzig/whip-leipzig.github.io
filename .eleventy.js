@@ -5,6 +5,8 @@ import faqOverviewDe from "./_src/_data/faqOverview.json" with { type: "json" };
 import enData from "./_src/en/en.11tydata.json" with { type: "json" };
 import { berlinIsoDateTime } from "./lib/time.js";
 
+const faqOverviewFor = (url) => (url.startsWith("/en/") ? enData.faqOverview : faqOverviewDe);
+
 const escapeHtml = (str) =>
   str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
@@ -67,16 +69,19 @@ export default function(eleventyConfig) {
 
   // Grouped table of contents at the top of the FAQ, from faqOverview (_data/faqOverview.json
   // for DE, en.11tydata.json for EN). Kept in sync with the actual headings by the
-  // faqOverviewCheck transform below.
-  eleventyConfig.addShortcode("faqOverview", function(overview) {
+  // faqOverviewCheck transform below. Read straight from the files rather than the data
+  // cascade: Eleventy deep-merges the two, concatenating the DE and EN group arrays.
+  eleventyConfig.addShortcode("faqOverview", function() {
+    const overview = faqOverviewFor(this.page.url);
     const groups = overview.groups.map((group) => {
       const links = group.items
-        .map((item) => `<a href="#${item.id}">${escapeHtml(item.label)}</a>`)
-        .join(" · ");
-      return `<p><strong>${escapeHtml(group.title)}:</strong> ${links}</p>`;
+        .map((item) => `<li><a href="#${item.id}">${escapeHtml(item.label)}</a></li>`)
+        .join("");
+      return `<div><h3>${escapeHtml(group.title)}</h3><ul>${links}</ul></div>`;
     });
     return `<section class="faq-overview" aria-labelledby="faq-overview">\n` +
-      `<h2 id="faq-overview">${escapeHtml(overview.title)}</h2>\n${groups.join("\n")}\n</section>`;
+      `<h2 id="faq-overview">${escapeHtml(overview.title)}</h2>\n` +
+      `<div class="faq-overview-groups">${groups.join("")}</div>\n</section>`;
   });
 
   // Fails the build if the FAQ overview no longer lists exactly the FAQ's questions, in page
@@ -86,7 +91,7 @@ export default function(eleventyConfig) {
     if (url !== "/faq.html" && url !== "/en/faq.html") {
       return content;
     }
-    const overview = url.startsWith("/en/") ? enData.faqOverview : faqOverviewDe;
+    const overview = faqOverviewFor(url);
     const expected = overview.groups.flatMap((group) => group.items.map((item) => item.id));
     const actual = [...content.matchAll(/<h2 id="([^"]+)"/g)]
       .map((match) => match[1])

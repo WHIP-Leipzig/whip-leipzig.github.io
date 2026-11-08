@@ -3,7 +3,7 @@ title: "FAQ"
 description: "Antworten auf häufige Fragen zum WHIP-Stammtisch Leipzig: Ablauf, Prinzipien, Anmeldung, Kleidung und mehr."
 layout: "base.njk"
 ---
-{% faqOverview faqOverview %}
+{% faqOverview %}
 
 ## Wofür steht WHIP?
 Der Stammtischname ist ein Akronym und steht in seiner Gesamtform für "Welcome Home Innocent Pervs".
