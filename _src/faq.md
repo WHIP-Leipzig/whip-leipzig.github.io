@@ -30,7 +30,7 @@ Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem off
 
 ## Ist "Spielen" erlaubt?
 ### WHIP-Stammtisch
-Bei unserem regulären Stammtisch sollte Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden. Wir haben hier die Location zwar für uns, dennoch steht hier der Austausch im Mittelpunkt. Neuen Leuten soll so ein möglichst niederschwelliger und einfach Zugang ermöglicht werden.
+Bei unserem regulären Stammtisch sollte Spielen, d.h. das Ausleben von BDSM-Praktiken, vermieden werden. Wir haben hier die Location zwar für uns, dennoch steht hier der Austausch im Mittelpunkt. Neuen Leuten soll so ein möglichst niederschwelliger und einfacher Zugang ermöglicht werden.
 
 ### Play-WHIP
 Hier haben wir die Location auch ganz für uns - Spielen ist erlaubt aber keine Pflicht.
@@ -44,16 +44,16 @@ Die Location ist aus sicherheitstechnischen Gründen während unserer Veranstalt
 ## Wie erreiche ich die Orga? Wie kann ich Kontakt aufnehmen?
 Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+ohpo9UueL2AwNmQy).
 ### Hinweis:
-Schreibt gern wie ihr zu uns gefunden habt oder was auch immer ihr sonst mögt - was uns aber sehr wichtig ist, ist dass ihr bitte kurz euer Alter mit uns teilt und dass ihr unsere [unsere Prinzipien](/prinzipien.html) sowie [das Konzept](https://whip-leipzig.de/konzept.html) gelesen und verstanden habt. <br/>
+Schreibt gern wie ihr zu uns gefunden habt oder was auch immer ihr sonst mögt - was uns aber sehr wichtig ist, ist dass ihr bitte kurz euer Alter mit uns teilt und dass ihr [unsere Prinzipien](/prinzipien.html) sowie [das Konzept](/konzept.html) gelesen und verstanden habt. <br/>
 Leider haben wir schlechte Erfahrungen machen müssen, weshalb wir inzwischen darauf bestehen.
 
 Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe und ermöglichen einen Raum in dem zunächst nur die neue Person und die Organisierenden Zugriff haben. Bots schreiben meist gar nichts oder über ominöse Jobangebote. 😁
 Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. 
 
-Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beitretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
+Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beigetretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
 
 ## Gibt es vor Ort Speisen/Getränke?
-Es gibt in der Location Getränke mit einem Preis, der sich in einem angebenen Rahmen, je nach eigenen Möglichkeiten, selbst ausgesucht werden kann. Essen kann mitgebracht werden, direkt gegenüber gibt es die Möglichkeit Kebab und Pizza (auch vegan) zu bekommen. 
+Es gibt in der Location Getränke mit einem Preis, der sich in einem angegebenen Rahmen, je nach eigenen Möglichkeiten, selbst ausgesucht werden kann. Essen kann mitgebracht werden, direkt gegenüber gibt es die Möglichkeit Kebab und Pizza (auch vegan) zu bekommen. 
 
 ## Wie sollte ich mich kleiden?
 ### WHIP-Stammtisch
@@ -76,7 +76,7 @@ Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Person
 In der Location selbst wird nicht geraucht, aber davor sind zuweilen rauchende Menschen anzutreffen.
 
 ## Ich verspüre einen Leidensdruck mit meinen Neigungen, was kann ich tun?
-Das tut uns sehr Leid, aber es gibt Hilfe!
+Das tut uns sehr leid, aber es gibt Hilfe!
 Wenn Du eine Hausarztperson hast und ihr vertraust, kann diese Person die erste Ansprechperson sein.
 
 Dazu gibt es für direkte Hilfe:
