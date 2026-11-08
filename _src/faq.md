@@ -47,7 +47,7 @@ Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.
 Schreibt gern wie ihr zu uns gefunden habt oder was auch immer ihr sonst mögt - was uns aber sehr wichtig ist, ist dass ihr bitte kurz euer Alter mit uns teilt und dass ihr unsere [unsere Prinzipien](/prinzipien.html) und [das Konzept](https://whip-leipzig.de/konzept.html) gelesen und verstanden habt. 
 Leider haben wir schlechte Erfahrungen machen müssen, weshalb wir inzwischen darauf bestehen müssen.
 
-Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe und ermöglichen einen Raum in dem zunächst nur die neue Person und die Organisieren Zugriff haben. Bots schreiben meist gar nichts oder über ominöse Jobangebote. 😁
+Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe und ermöglichen einen Raum in dem zunächst nur die neue Person und die Organisierenden Zugriff haben. Bots schreiben meist gar nichts oder über ominöse Jobangebote. 😁
 Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. 
 
 Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beitretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
