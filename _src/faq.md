@@ -19,11 +19,25 @@ Wir haben in Leipzig noch die lieben Menschys vom [SMiLE (SM in Leipzig)](https:
 ## Was sind eure Regeln?
 Wir haben keine Regeln, aber haben uns selbst [Prinzipien](/prinzipien.html) gegeben.
 
+## Was mache ich, wenn jemand meine Grenzen überschreitet?
+Sprich uns bitte an – jederzeit, ob vor Ort oder danach. Vor Ort erkennst du die Orga an unseren Badges, außerdem sind wir in der Telegramgruppe und in der Lounge markiert. Nach dem Treffen erreichst du uns per [E-Mail](mailto:kontakt@whip-leipzig.de) oder per Direktnachricht auf Telegram.
+
+Das gilt genauso, wenn du so ein Verhalten bei anderen beobachtest. Uns als Orga ist es sehr wichtig, dass wir uns solidarisch an deine Seite stellen. Menschen, die nicht akzeptieren, dass Konsens nur besteht, wenn er freiwillig, widerrufbar, informiert, enthusiastisch und spezifisch ist, haben in unserer Community keinen Platz.
+
+## Bleibt, was ich erzähle, unter uns?
+Beim Stammtisch teilen Menschen oft sehr Persönliches. Wir vertrauen darauf, dass alle sorgsam damit umgehen – was jemand erzählt und wer da war, bleibt bei uns. Aus demselben Grund gibt es bei uns auch [keine Fotos oder Videos](#sind-fotos-videos-erlaubt).
+
+## Was ist kooperative Kommunikation?
+Gemeint ist eine Art zu sprechen, die auf der [Gewaltfreien Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation) nach Marshall B. Rosenberg aufbaut: beschreiben, was man beobachtet hat, wie es einem damit geht, was man braucht und worum man bittet – ohne Vorwürfe.
+
 ## Was für Treffen gibt es beim WHIP?
 Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne Spielen zusammenkommen sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
+
+## Passe ich zu euch?
+Wenn du dich in unserem [Konzept](/konzept.html) wiederfindest: sehr wahrscheinlich! Du musst keine Erfahrung mitbringen und nichts über dich festlegen – viele kommen erst mal aus Neugier. Neigungen bewerten wir nicht, uns ist nur wichtig, dass alles im Konsens passiert.
 
 ## Kann ich auch kommen, wenn ich noch nie auf einem Stammtisch war?
 Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, die [Prinzipien](/prinzipien.html) und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.

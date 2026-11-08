@@ -19,11 +19,25 @@ In Leipzig, we have the lovely people from [SMiLE (SM in Leipzig)](https://www.s
 ## What are your rules?
 We have no rules, but we have given ourselves [Principles](/en/principles.html).
 
+## What if someone crosses my boundaries?
+Please talk to us – anytime, whether on site or afterwards. On site, you can recognize the organizers by our badges; we're also marked in the Telegram group and in the Lounge. After the meetup, you can reach us by [email](mailto:kontakt@whip-leipzig.de) or via direct message on Telegram.
+
+The same goes if you observe this kind of behavior towards others. As the organizers, it matters deeply to us that we stand with you in solidarity. People who refuse to accept that consent only exists when it is freely given, reversible, informed, enthusiastic and specific have no place in our community.
+
+## Will what I share stay between us?
+At the meetup, people often share very personal things. We trust everyone to handle that with care – what someone shares and who was there stays with us. For the same reason, there are [no photos or videos](#are-photos-videos-allowed) at our meetups.
+
+## What is cooperative communication?
+It's a way of talking based on Marshall B. Rosenberg's [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication): describing what you observed, how you feel about it, what you need and what you're asking for – without blame.
+
 ## What kinds of meetups are there at WHIP?
 Currently, there is the **WHIP meetup**, where we get together in a cozy circle without playing, and the **Play-WHIP**, where we can also play a little in a private setting.
 
 ## How often does the meetup take place?
 Each of our meetings currently takes place at least once a month.
+
+## Will I fit in?
+If you see yourself in our [concept](/en/concept.html): very likely! You don't need any experience, and you don't have to define yourself – many people come just out of curiosity at first. We don't judge anyone's kinks; all that matters to us is that everything happens with consent.
 
 ## Can I come if I've never been to a meetup before?
 Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the meetup, the [Principles](/en/principles.html) and some general information. This lets you get to know the organizers and talk through open questions beforehand. It also means you don't have to walk straight into a large, established group. We hope this makes arriving at our events a little easier for you.
