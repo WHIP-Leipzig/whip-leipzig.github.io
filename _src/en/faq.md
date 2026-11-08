@@ -4,7 +4,7 @@ description: "Answers to frequently asked questions about the WHIP meetup in Lei
 layout: "base.njk"
 ---
 ## What does WHIP stand for?
-The name of the meetup is an acronym and stands in its full form for "Welcome Home Innocent Pervs".
+The meetup's name is an acronym; in full, it stands for "Welcome Home Innocent Pervs".
 
 ## Who is the meetup aimed at? Is there an age limit?
 This question is answered in our [Concept](/en/concept.html).
@@ -19,24 +19,24 @@ In Leipzig, we have the lovely people from [SMiLE (SM in Leipzig)](https://www.s
 ## What are your rules?
 We have no rules, but we have given ourselves [Principles](/en/principles.html).
 
-## What kind of meetings does WHIP have?
-Currently, there is the **WHIP meetup**, where we gather in a cozy circle without playing and the **Play-WHIP**, where we can also play in a closed society.
+## What kinds of meetups are there at WHIP?
+Currently, there is the **WHIP meetup**, where we get together in a cozy circle without playing, and the **Play-WHIP**, where we can also play a little in a private setting.
 
 ## How often does the meetup take place?
 Each of our meetings currently takes place at least once a month.
 
 ## Can I come if I've never been to a meetup before?
-Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the meetup, the [Principles](/en/principles.html) and some general information. This allows you to get to know the organizers and discuss open questions beforehand. It also gives you the opportunity to arrive not directly into an existing large group. We hope this makes arriving at our events easier for you.
+Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the meetup, the [Principles](/en/principles.html) and some general information. This lets you get to know the organizers and talk through open questions beforehand. It also means you don't have to walk straight into a large, established group. We hope this makes arriving at our events a little easier for you.
 
 ## Is "Playing" allowed?
 ### WHIP meetup
-At our regular meetup, playing, i.e., the practice of BDSM, should be avoided. We have the venue to ourselves here, but the focus is on exchange. This allows for a low-threshold and simple entry for new people.
+At our regular meetup, playing, i.e. practicing BDSM, should be avoided. We do have the venue to ourselves, but the focus is on exchange. This gives new people an easy, low-threshold way in.
 
 ### Play-WHIP
-Here we also have the venue entirely to ourselves, additionally playing is allowed but not mandatory.
-You should be considerate of the fact that people around you might be playing. However, there is no expectation or even obligation that the people present will play at all – [our principles](/en/principles.html) remain the top priority. The only hope is that we have a wonderful time together.
+Here we also have the venue entirely to ourselves – playing is allowed but not mandatory.
+You should be fine with the fact that people around you might be playing. However, there is no expectation, let alone obligation, that anyone present plays at all – [our principles](/en/principles.html) remain the top priority, as always. Our only hope is that we have a wonderful time together.
 
-If you play, please pay attention to your surroundings and let's see together what is acceptable for the venue. The limit of the venue so far is that non-sexual play remains non-sexual, so genitals must remain covered. 
+If you play, please pay attention to your surroundings, and let's find out together what is acceptable for the venue. So far, the venue's limit is that play stays non-sexual, so genitals must remain covered. 
 
 #### Important!
 The Play-WHIP venue is video-monitored for safety reasons during our events. The recordings are automatically deleted after 48 hours and serve solely to protect the bar staff in case of any incidents. 
@@ -47,43 +47,42 @@ The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipz
 Please feel free to tell us how you found us, or anything else you’d like to share. However, it is very important to us that you also tell us your age and confirm that you have read and understood [our principles](/en/principles.html) as well as [our concept](/en/concept.html).<br/>
 Unfortunately, we have had some bad experiences, which is why we have to insist on this.
 
-The invitation link is for the "Lounge" and not yet the main group - so we avoid bots in our main group and enable a room in which only the new person and the organisators have access. Bots usually write nothing or about ominous job offers. 😁
-The organizers will then manually move you to the main group after a bot check. 
+The Telegram invitation link leads to the "Lounge", not yet to the main group – this keeps bots out of our main group and gives us a room that, at first, only the new person and the organizers can access. Bots usually write nothing at all, or something about dubious job offers. 😁
+After a bot check, the organizers will then move you to the main group manually. 
 
-Therefore, please note that we assume an account that joined is a bot if there is no reaction to our welcome message. In this case, we will remove the account from the channel for now. 
+Please note that we assume an account that has joined is a bot if there is no reply to our welcome message. In this case, we will remove the account from the channel for now. 
 
-## Is there food/drinks on site?
-There are drinks at the venue at a price range that is self-determined within a specified range, depending on your own means. Food can be brought in; directly opposite, there is the option to get Kebab and pizza (also vegan). 
+## Are there food/drinks on site?
+There are drinks at the venue, and you can choose what to pay for them within a given range, depending on your own means. You can bring your own food; directly opposite, you can get kebab and pizza (vegan options too). 
 
 ## How should I dress?
 ### WHIP meetup
 Wear the outfit in which you feel most comfortable.
 
 ### Play-WHIP
-Come in the outfits in which you feel comfortable, or if you like, dress comfortably/chic/sexy on site if you wish. You have the choice.
+Come in whatever outfit you feel comfortable in, or change into something comfy/chic/sexy on site if you like. It's your choice.
 
 ## I'm not brave enough (to come alone), what can I do?
 That's totally okay! If you like, you can ask a friend to accompany you. This makes the first step easier.
 
 ## Does a visit cost anything?
-No, the visit does not cost anything. However, it would be nice if the venues we are allowed to use get a little something. If you can therefore order a few drinks during the evening, that would be great.  
+No, visiting doesn't cost anything. However, it would be nice if the venues that host us get a little something out of it. So if you can order a few drinks over the evening, that would be great.  
 Of course, it's also okay if that doesn't fit your budget right now.
 
 ## Are photos/videos allowed?
 In the spirit of the Safer Space, it is forbidden to take photos or videos of other people.
 
 ## Is smoking allowed in the venue?
-Smoking is not allowed inside the venue, but people who are smoking are sometimes seen outside.
+Smoking is not allowed inside the venue, but you'll sometimes find people smoking outside.
 
 ## I'm struggling with my kink/interests — what can I do?
 We're really sorry you're feeling this way, but help is available!
 If you have a GP you trust, they can be your first point of contact.
 
-Additionally, there are some more offers, but these are mostly in German.
+There are also some other services, but these are mostly in German.
 
 For direct support:
-- TelefonSeelsorge (phone counseling) at [0800 111 0 111](tel:+498001110111), [0800 111 0 222](tel:+498001110222) and [116 123](tel:116123), or online at
-[www.telefonseelsorge.de](https://www.telefonseelsorge.de)
+- TelefonSeelsorge (phone counseling) at [0800 111 0 111](tel:+498001110111), [0800 111 0 222](tel:+498001110222) and [116 123](tel:116123), or online at [www.telefonseelsorge.de](https://www.telefonseelsorge.de)
 - SeeleFon at [0228 7100 24 24](tel:+4922871002424) or [www.bapk.de](https://www.bapk.de)
 - Caritas online counseling: [www.caritas.de](https://www.caritas.de/hilfeundberatung/onlineberatung)
 
