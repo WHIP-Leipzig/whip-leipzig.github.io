@@ -74,6 +74,8 @@ export default function(eleventyConfig) {
 	});
 
   eleventyConfig.addShortcode("meetingDate", async function(meetingDate, lang) {
+    // "YYYY-MM-DD" parses as UTC midnight, so read it back in UTC too — the build
+    // machine's local timezone would otherwise shift it to the previous day west of UTC.
     const meetingDateObj = new Date(meetingDate);
     const days = {
       "de": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
@@ -83,11 +85,12 @@ export default function(eleventyConfig) {
       { 
         day: '2-digit',
         month: '2-digit',
-        year: 'numeric'
+        year: 'numeric',
+        timeZone: 'UTC'
       }
     );
 
-    return `${days[lang][meetingDateObj.getDay()]}, ${formatter.format(meetingDateObj)}`;
+    return `${days[lang][meetingDateObj.getUTCDay()]}, ${formatter.format(meetingDateObj)}`;
    });
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
