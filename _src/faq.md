@@ -10,7 +10,8 @@ Der Stammtischname ist ein Akronym und steht in seiner Gesamtform für "Welcome 
 Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
 
 ## Kann ich bei Euch eine Partnerperson finden?
-Wir legen einen sehr großen Fokus darauf, einen Safer Space für alle Anwesenden zu schaffen. Darunter verstehen wir einen Ort, an dem sich Leute austauschen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird. Unsere Community ist keine Partnerbörse oder Kontaktvermittlung.
+**Unsere Community ist keine Partnerbörse oder Kontaktvermittlung.**
+Wir legen einen sehr großen Fokus darauf, einen Safer Space für alle Anwesenden zu schaffen. Darunter verstehen wir einen Ort, an dem sich Leute austauschen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird. 
 
 ## Ich bin schon etwas älter, was kann ich tun?
 Wir haben in Leipzig noch die lieben Menschys vom [SMiLE (SM in Leipzig)](https://www.smile-leipzig.de/), die auch regelmäßige Treffen organisieren. 
@@ -25,7 +26,7 @@ Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne 
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
 
 ## Kann ich auch kommen, wenn ich noch nie auf einem Stammtisch war?
-Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, die [Prinzipien](/prinzipien.html) und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt Ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
+Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, die [Prinzipien](/prinzipien.html) und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
 
 ## Ist "Spielen" erlaubt?
 ### WHIP-Stammtisch
@@ -43,7 +44,11 @@ Die Location ist aus sicherheitstechnischen Gründen während unserer Veranstalt
 ## Wie erreiche ich die Orga? Wie kann ich Kontakt aufnehmen?
 Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+ohpo9UueL2AwNmQy).
 ### Hinweis:
-Der Einladungslink ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe. Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. Schreibt gern wie Ihr zu uns gefunden habt oder was auch immer Ihr mögt - Bots schreiben nämlich meist gar nichts oder über ominöse Jobangebote. 😁
+Schreibt gern wie ihr zu uns gefunden habt oder was auch immer ihr sonst mögt - was uns aber sehr wichtig ist, ist dass ihr bitte kurz euer Alter mit uns teilt und dass ihr unsere [unsere Prinzipien](/prinzipien.html) und [das Konzept](https://whip-leipzig.de/konzept.html) gelesen und verstanden habt. 
+Leider haben wir schlechte Erfahrungen machen müssen, weshalb wir inzwischen darauf bestehen müssen.
+
+Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe und ermöglichen einen Raum in dem zunächst nur die neue Person und die Organisieren Zugriff haben. Bots schreiben meist gar nichts oder über ominöse Jobangebote. 😁
+Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. 
 
 Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beitretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
 
@@ -61,7 +66,7 @@ Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort 
 Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
 
 ## Kostet der Besuch etwas?
-Nein, der Besuch kostet nichts. Es wäre aber schön, wenn die Orte an denen wir sein dürfen ein wenig davon haben. Wenn Ihr daher über den Abend ein paar Getränke bestellen könnt, wäre das großartig.  
+Nein, der Besuch kostet nichts. Es wäre aber schön, wenn die Orte an denen wir sein dürfen ein wenig davon haben. Wenn ihr daher über den Abend ein paar Getränke bestellen könnt, wäre das großartig.  
 Sollte das aktuell für dich nicht passen, ist das natürlich auch okay.
 
 ## Sind Fotos/Videos erlaubt?

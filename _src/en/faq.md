@@ -10,7 +10,8 @@ The name of the meetup is an acronym and stands in its full form for "Welcome Ho
 This question is answered in our [Concept](/en/concept.html).
 
 ## Can I find a partner with you?
-We place a very strong focus on creating a Safer Space for all attendees. By this, we understand a place where people can exchange ideas and socialize without having to fear that it becomes too intense or uncomfortable. Our community is not a matchmaking service or partner exchange.
+**Our community is not a matchmaking service or partner exchange.**
+We place a very strong focus on creating a Safer Space for all attendees. By this, we understand a place where people can exchange ideas and socialize without having to fear that it becomes too intense or uncomfortable. 
 
 ## I am a bit older, what can I do?
 In Leipzig, we have the lovely people from [SMiLE (SM in Leipzig)](https://www.smile-leipzig.de/), who also organize regular meetups. 
@@ -43,7 +44,11 @@ The Play-WHIP venue is video-monitored for safety reasons during our events. The
 ## How do I reach the organizers? How can I contact you?
 The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+ohpo9UueL2AwNmQy).
 ### Note:
-The invitation link is for the "Lounge" and not yet the main group - so we avoid bots in our main group. The organizers will then manually move you to the main group after a bot check. Please feel free to write how you found us or anything else you like - bots usually write nothing or about ominous job offers. 😁
+Please feel free to write to how you found us or anything else you like - however it's very important to us that you please also share your age with us and acknowledge that you read and understood [our principles](/en/principles.html) as well as [our concept](/en/concept.html) 
+Unfortunately, we have had some bad experiences, which is why we have to insist on this.
+
+The invitation link is for the "Lounge" and not yet the main group - so we avoid bots in our main group and enable a room in which only the new person and the organisators have access. Bots usually write nothing or about ominous job offers. 😁
+The organizers will then manually move you to the main group after a bot check. 
 
 Therefore, please note that we assume an account that joined is a bot if there is no reaction to our welcome message. In this case, we will remove the account from the channel for now. 
 
