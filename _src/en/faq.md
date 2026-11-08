@@ -10,7 +10,7 @@ The name of the meetup is an acronym and stands in its full form for "Welcome Ho
 This question is answered in our [Concept](/en/concept.html).
 
 ## Can I find a partner with you?
-**Our community is not a matchmaking service or partner exchange.**
+**Our community is not a matchmaking service or partner exchange.**<br/>
 We place a very strong focus on creating a Safer Space for all attendees. By this, we understand a place where people can exchange ideas and socialize without having to fear that it becomes too intense or uncomfortable. 
 
 ## I am a bit older, what can I do?
@@ -44,7 +44,7 @@ The Play-WHIP venue is video-monitored for safety reasons during our events. The
 ## How do I reach the organizers? How can I contact you?
 The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+ohpo9UueL2AwNmQy).
 ### Note:
-Please feel free to write to how you found us or anything else you like - however it's very important to us that you please also share your age with us and acknowledge that you read and understood [our principles](/en/principles.html) as well as [our concept](/en/concept.html) 
+Please feel free to write to how you found us or anything else you like - however it's very important to us that you please also share your age with us and acknowledge that you read and understood [our principles](/en/principles.html) as well as [our concept](/en/concept.html). <br/>
 Unfortunately, we have had some bad experiences, which is why we have to insist on this.
 
 The invitation link is for the "Lounge" and not yet the main group - so we avoid bots in our main group and enable a room in which only the new person and the organisators have access. Bots usually write nothing or about ominous job offers. 😁
