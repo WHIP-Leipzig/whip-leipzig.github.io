@@ -2,6 +2,9 @@ name: Publish Website
 on:
   push:
     branches: [ main ]
+  schedule:
+    # Daily rebuild so past meetings drop off the homepage (see the `upcoming` filter).
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:

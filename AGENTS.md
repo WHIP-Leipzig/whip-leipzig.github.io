@@ -52,7 +52,10 @@ and produce all expected pages under `_site/` (currently 22 files: DE and EN pag
 - `_src/_data/meetings.json` is the single source of truth for meeting dates. It feeds both the
   meeting list on the homepage (`start-de.njk`/`start-en.njk`) and the iCal feed
   (`_src/feed.11ty.js`, served as `/treffen.ics`). A meeting without a `topic` needs the empty
-  string `""`, not `null` — the templates check for falsy values.
+  string `""`, not `null` — the templates check for falsy values. The homepage runs the list
+  through the `upcoming` filter (`.eleventy.js`), so past dates disappear on the next build; a
+  daily `schedule` trigger in `.github/workflows/main.yml` makes sure that build happens. The
+  iCal feed keeps all entries.
 
 ## Legal pages (privacy policy, imprint) — handle with care
 

@@ -152,6 +152,14 @@ export default function(eleventyConfig) {
 
   eleventyConfig.addGlobalData("meetingTimes", meetingTimes);
 
+  // Meetings from today (Europe/Berlin) on. Past ones only drop off when the site is rebuilt,
+  // which the daily scheduled run in .github/workflows/main.yml takes care of.
+  const berlinDate = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Berlin" });
+  eleventyConfig.addFilter("upcoming", (meetings) => {
+    const today = berlinDate.format(new Date());
+    return meetings.filter((meeting) => meeting.date >= today);
+  });
+
   eleventyConfig.addShortcode("meetingDate", async function(meetingDate, lang) {
     // "YYYY-MM-DD" parses as UTC midnight, so read it back in UTC too — the build
     // machine's local timezone would otherwise shift it to the previous day west of UTC.

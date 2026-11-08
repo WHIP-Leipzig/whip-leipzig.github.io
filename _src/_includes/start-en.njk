@@ -1,4 +1,4 @@
-{% set meetings = meetings %}
+{% set meetings = meetings | upcoming %}
 {% include "templates/header.njk" %}
   <script type="application/ld+json">{% eventsJsonLd meetings, "en", page.url, site.url %}</script>
 
@@ -14,10 +14,11 @@
         <strong>We are not a dating platform or a matchmaking service.</strong>
       </p>
       <p>
-        Here you’ll find information about <a href="/en/faq.html">us</a>, when we meet, our <a href="/en/concept.html">concept</a> and more.
+        Here you can learn more about our <a href="/en/concept.html">concept</a>, our <a href="/en/principles.html">principles</a>, and pretty much everything else in the <a href="/en/faq.html">FAQ</a>.
       </p>
     {{content | safe}}
     <h2>Upcoming dates</h2>
+    {% if meetings.length %}
     <ul>
       {% for meeting in meetings %}
         <li>
@@ -35,6 +36,9 @@
         </li>
       {% endfor %}
     </ul>
+    {% else %}
+    <p>New dates coming soon.</p>
+    {% endif %}
     <section class="cta">
       <p><strong>Want to come by?</strong> Lovely! Please take a quick look at how to get in touch with us first – it makes getting started easy.</p>
       <a href="/en/faq.html#how-do-i-reach-the-organizers-how-can-i-contact-you" role="button" class="outline">How to get in touch</a>
@@ -46,10 +50,7 @@
       <h3>Tips:</h3>
       <ul>
         <li>Is something not okay for you? <a href="/en/faq.html#what-if-someone-crosses-my-boundaries">Here's what you can do.</a></li>
-        <li>
-          To stay updated on new dates, you can <a href="/{{ calendar.permalink }}">subscribe to this address</a> in your calendar.<br/>
-          If you want your calendar to stay up to date all the time, you can add the address <code>{{ site.url }}/{{ calendar.permalink }}</code> to the calendar of your choice.
-        </li>
+        <li>With <a href="/{{ calendar.permalink }}">our calendar subscription</a> you'll always know about new dates – or add <code>{{ site.url }}/{{ calendar.permalink }}</code> to the calendar of your choice.</li>
         <li>We also developed a consent creation tool named "Kinkburst", <a href="{{ site.kinkburst }}">which you can find here</a>.</li>
       </ul>
     </aside>

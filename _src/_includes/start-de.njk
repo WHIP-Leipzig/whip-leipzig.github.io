@@ -1,23 +1,24 @@
-{% set meetings = meetings %}
+{% set meetings = meetings | upcoming %}
 {% include "templates/header.njk" %}
   <script type="application/ld+json">{% eventsJsonLd meetings, "de", page.url, site.url %}</script>
 
   <main class="container">
     <h1 id="welcome">{{ title }}</h1>
       <p>
-        Willkommen auf der Webseite der WHIP BDSM-Community in Leipzig – schön, dass Du da bist!<br/>
+        Willkommen auf der Webseite der WHIP BDSM-Community in Leipzig – schön, dass du da bist!<br/>
         Unser Ziel ist es, einen Safer Space zu ermöglichen, um sich mit Gleichgesinnten über BDSM austauschen zu können.
       </p>
       <p>
-        Hierbei ist unser Wunsch, einen Ort zu schaffen, an dem sich Leute öffnen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird.<br/>
+        Hierbei ist unser Wunsch, einen Ort zu schaffen, an dem sich Leute öffnen können, ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird.<br/>
         <br/>
         <strong>Wir sind keine Partnerbörse oder Kontaktvermittlung.</strong><br/>
       </p>
       <p>
-        Hier findest du Informationen über <a href="faq.html">uns</a>, wann wir uns treffen, unser <a href="konzept.html">Konzept</a> und noch einige andere Dinge.
+        Hier erfährst du mehr über unser <a href="konzept.html">Konzept</a>, unsere <a href="prinzipien.html">Prinzipien</a> und in den <a href="faq.html">FAQ</a> so ziemlich alles andere.
       </p>
     {{content | safe}}
     <h2>Unsere nächsten Termine</h2>
+    {% if meetings.length %}
     <ul>
       {% for meeting in meetings %}
         <li>
@@ -35,6 +36,9 @@
         </li>
       {% endfor %}
     </ul>
+    {% else %}
+    <p>Neue Termine folgen bald.</p>
+    {% endif %}
     <section class="cta">
       <p><strong>Du möchtest vorbeikommen?</strong> Wie schön! Lies vorher bitte kurz, wie du Kontakt zu uns aufnimmst – dann klappt der Start ganz leicht.</p>
       <a href="faq.html#wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen" role="button" class="outline">So meldest du dich bei uns</a>
@@ -43,11 +47,8 @@
       <h3>Tipps:</h3>
       <ul>
         <li>Ist etwas nicht okay für dich? <a href="faq.html#was-mache-ich-wenn-jemand-meine-grenzen-ueberschreitet">Hier erfährst du, was du tun kannst.</a></li>
-        <li>
-          Um stets über neue Termine informiert zu sein, kannst du <a href="/{{ calendar.permalink }}">diese Adresse</a> in deinem Kalender abonnieren.<br/>
-          Wenn du den Kalender immer aktuell haben möchtest, bitte abonniere die Adresse <code>{{ site.url }}/{{ calendar.permalink }}</code> im Kalender deiner Wahl.
-        </li>
-        <li>Wir haben auch ein Konsenstool namens "Kinkburst" entwickelt, <a href="{{ site.kinkburst }}">das findest Du hier</a>.</li>
+        <li>Mit <a href="/{{ calendar.permalink }}">unserem Kalender-Abo</a> bist du immer über neue Termine informiert – oder füge <code>{{ site.url }}/{{ calendar.permalink }}</code> im Kalender deiner Wahl hinzu.</li>
+        <li>Wir haben auch ein Konsenstool namens "Kinkburst" entwickelt, <a href="{{ site.kinkburst }}">das findest du hier</a>.</li>
       </ul>
     </aside>
   </main>

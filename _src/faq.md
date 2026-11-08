@@ -14,9 +14,9 @@ Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
 ## Passe ich zu euch?
 Wenn du dich in unserem [Konzept](/konzept.html) wiederfindest: sehr wahrscheinlich! Du musst keine Erfahrung mitbringen und nichts über dich festlegen – viele kommen erst mal aus Neugier. Neigungen bewerten wir nicht, uns ist nur wichtig, dass alles im Konsens passiert.
 
-## Kann ich bei Euch eine Partnerperson finden?
+## Kann ich bei euch eine Partnerperson finden?
 **Unsere Community ist keine Partnerbörse oder Kontaktvermittlung.**<br/>
-Wir legen einen sehr großen Fokus darauf, einen Safer Space für alle Anwesenden zu schaffen. Darunter verstehen wir einen Ort, an dem sich Leute austauschen können ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird. 
+Wir legen einen sehr großen Fokus darauf, einen Safer Space für alle Anwesenden zu schaffen. Darunter verstehen wir einen Ort, an dem sich Leute austauschen können, ohne befürchten zu müssen, dass es zu intensiv oder unangenehm wird. 
 
 ## Ich bin schon etwas älter, was kann ich tun?
 Wir haben in Leipzig noch die lieben Menschys vom [SMiLE (SM in Leipzig)](https://www.smile-leipzig.de/), die auch regelmäßige Treffen organisieren. 
@@ -96,18 +96,18 @@ Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beigetreten
 
 ## Ich verspüre einen Leidensdruck mit meinen Neigungen, was kann ich tun?
 Das tut uns sehr leid, aber es gibt Hilfe!
-Wenn Du eine Hausarztperson hast und ihr vertraust, kann diese Person die erste Ansprechperson sein.
+Wenn du eine Hausarztperson hast und ihr vertraust, kann diese Person die erste Ansprechperson sein.
 
 Dazu gibt es für direkte Hilfe:
 - die TelefonSeelsorge unter [0800 111 0 111](tel:+498001110111), [0800 111 0 222](tel:+498001110222) und [116123](tel:116123) sowie online unter [www.telefonseelsorge.de](https://www.telefonseelsorge.de)
 - das SeeleFon unter [0228 7100 24 24](tel:+4922871002424) bzw. [www.bapk.de](https://www.bapk.de)
 - die Online-Beratung der Caritas: [www.caritas.de](https://www.caritas.de/hilfeundberatung/onlineberatung)
 
-Therapeutys kannst Du hier finden:
+Therapeutys kannst du hier finden:
 - [www.weisse-liste.de](https://www.weisse-liste.de)
 - [www.bptk.de](https://www.bptk.de/service/therapeutensuche)
 
-Wenn Du eine geflüchtete Person bist, gibt es noch die [Queer Refugees](https://queer-refugees.de).
+Wenn du eine geflüchtete Person bist, gibt es noch die [Queer Refugees](https://queer-refugees.de).
 
 ## Meine Frage wurde hier nicht beantwortet...
 Diese FAQ ist nur ein erster Anlaufpunkt für deine Fragen. Solltest du weitere haben, sprich gerne die Orgas an.
