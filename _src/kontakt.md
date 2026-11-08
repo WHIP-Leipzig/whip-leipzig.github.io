@@ -4,3 +4,5 @@ description: "Kontakt zum WHIP-Stammtisch Leipzig per E-Mail — für Fragen ode
 layout: "base.njk"
 --- 
 Du möchtest zum ersten Mal vorbeikommen oder hast eine Frage, die in den [FAQ](/faq.html) offen geblieben ist? Schreib uns einfach an [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) – wir freuen uns, von dir zu hören!
+
+Planst du deinen ersten Besuch? [Hier steht, was uns in deiner Nachricht wichtig ist.](/faq.html#wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen)
