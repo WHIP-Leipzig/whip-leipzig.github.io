@@ -26,6 +26,7 @@
       "items": [
         { "id": "was-fuer-treffen-gibt-es-beim-whip", "label": "Welche Treffen?" },
         { "id": "wie-haeufig-findet-der-stammtisch-statt", "label": "Wie oft?" },
+        { "id": "wann-geht-es-los", "label": "Uhrzeit" },
         { "id": "kann-ich-auch-kommen-wenn-ich-noch-nie-auf-einem-stammtisch-war", "label": "Zum ersten Mal dabei" },
         { "id": "ist-spielen-erlaubt", "label": "Spielen" },
         { "id": "wie-sollte-ich-mich-kleiden", "label": "Kleidung" },

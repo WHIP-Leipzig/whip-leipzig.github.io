@@ -44,6 +44,9 @@ Currently, there is the **WHIP meetup**, where we get together in a cozy circle 
 ## How often does the meetup take place?
 Each of our meetings currently takes place at least once a month.
 
+## What time does it start?
+Our meetups start at 7 pm and go until about 11 pm. If it's your first time, feel free to come at 6:30 pm for the [round for new people](#can-i-come-if-i-ve-never-been-to-a-meetup-before). You'll find out where we meet once you've [gotten in touch](#how-do-i-reach-the-organizers-how-can-i-contact-you) with us.
+
 ## Can I come if I've never been to a meetup before?
 Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the meetup, the [Principles](/en/principles.html) and some general information. This lets you get to know the organizers and talk through open questions beforehand. It also means you don't have to walk straight into a large, established group. We hope this makes arriving at our events a little easier for you.
 

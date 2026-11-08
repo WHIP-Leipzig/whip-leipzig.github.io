@@ -3,7 +3,7 @@ import eleventySass from "eleventy-sass";
 import slugTranslations from "./_src/_data/slugTranslations.json" with { type: "json" };
 import faqOverviewDe from "./_src/_data/faqOverview.json" with { type: "json" };
 import enData from "./_src/en/en.11tydata.json" with { type: "json" };
-import { berlinIsoDateTime } from "./lib/time.js";
+import { berlinIsoDateTime, MEETING_START, MEETING_END } from "./lib/time.js";
 
 const faqOverviewFor = (url) => (url.startsWith("/en/") ? enData.faqOverview : faqOverviewDe);
 
@@ -47,8 +47,8 @@ export default function(eleventyConfig) {
       return {
         "@type": "Event",
         name: meeting.topic ? `${baseName}: ${meeting.topic}` : baseName,
-        startDate: berlinIsoDateTime(meeting.date, "19:00"),
-        endDate: berlinIsoDateTime(meeting.date, "23:00"),
+        startDate: berlinIsoDateTime(meeting.date, MEETING_START),
+        endDate: berlinIsoDateTime(meeting.date, MEETING_END),
         eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
         eventStatus: "https://schema.org/EventScheduled",
         isAccessibleForFree: true,
@@ -139,7 +139,12 @@ export default function(eleventyConfig) {
       }
     );
 
-    return `${days[lang][meetingDateObj.getUTCDay()]}, ${formatter.format(meetingDateObj)}`;
+    const [hours, minutes] = MEETING_START.split(":").map(Number);
+    const time = lang === "en"
+      ? `${hours % 12 || 12}${minutes ? `:${String(minutes).padStart(2, "0")}` : ""} ${hours < 12 ? "am" : "pm"}`
+      : `${MEETING_START} Uhr`;
+
+    return `${days[lang][meetingDateObj.getUTCDay()]}, ${formatter.format(meetingDateObj)}, ${time}`;
    });
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});

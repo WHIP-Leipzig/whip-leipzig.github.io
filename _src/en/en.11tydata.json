@@ -37,6 +37,7 @@
         "items": [
           { "id": "what-kinds-of-meetups-are-there-at-whip", "label": "Which meetups?" },
           { "id": "how-often-does-the-meetup-take-place", "label": "How often?" },
+          { "id": "what-time-does-it-start", "label": "What time?" },
           { "id": "can-i-come-if-i-ve-never-been-to-a-meetup-before", "label": "Your first time" },
           { "id": "is-playing-allowed", "label": "Playing" },
           { "id": "how-should-i-dress", "label": "What to wear" },

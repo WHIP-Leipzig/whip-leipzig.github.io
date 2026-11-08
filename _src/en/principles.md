@@ -14,3 +14,5 @@ All participants are asked to communicate their wishes and needs, but also criti
 
 ## Respect
 All participants of the meetup are always to be treated with respect. Especially in discussions, differences of opinion can arise. Here, again, the principles of cooperative communication apply.
+<br/><br/><br/>
+Is something not okay for you? [Here's what you can do.](/en/faq.html#what-if-someone-crosses-my-boundaries)

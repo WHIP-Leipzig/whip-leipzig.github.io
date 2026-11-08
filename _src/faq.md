@@ -44,6 +44,9 @@ Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
 
+## Wann geht es los?
+Unsere Treffen beginnen um 19:00 Uhr und gehen bis etwa 23:00 Uhr. Bist du zum ersten Mal dabei, komm gern schon um 18:30 Uhr zur [Runde für neue Leute](#kann-ich-auch-kommen-wenn-ich-noch-nie-auf-einem-stammtisch-war). Wo wir uns treffen, erfährst du, nachdem du dich bei uns [gemeldet](#wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen) hast.
+
 ## Kann ich auch kommen, wenn ich noch nie auf einem Stammtisch war?
 Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, die [Prinzipien](/prinzipien.html) und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
 

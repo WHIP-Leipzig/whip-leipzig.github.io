@@ -1,6 +1,6 @@
 import { ICalCalendar, ICalAlarmType, ICalCalendarMethod } from 'ical-generator';
 import calendar from './_data/calendar.json' with { type: 'json' };
-import { berlinIsoDateTime } from '../lib/time.js';
+import { berlinIsoDateTime, MEETING_START, MEETING_END } from '../lib/time.js';
 
 export default class FeedTemplate {
   // Setup Eleventy data for this template,
@@ -15,8 +15,8 @@ export default class FeedTemplate {
   render({ meetings }) {
     // Generate a calendar object based on the calendar configuration
     // plus information provided by eleventy
-    const startTime = '19:00';
-    const endTime = '23:00';
+    const startTime = MEETING_START;
+    const endTime = MEETING_END;
     const cal = new ICalCalendar({
       name: calendar.title,
       description: calendar.description,

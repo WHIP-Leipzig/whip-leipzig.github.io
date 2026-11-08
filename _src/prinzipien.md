@@ -14,3 +14,5 @@ Alle Teilnehmenden sind angehalten, ihre Wünsche, Bedürfnisse, aber auch Kriti
 
 ## Respekt
 Alle Teilnehmenden des Stammtisches sind grundsätzlich mit Respekt zu behandeln. Gerade im Diskussionskontext kann es zu Meinungsverschiedenheiten kommen. Hier gelten wieder die Prinzipien der kooperativen Kommunikation.
+<br/><br/><br/>
+Ist etwas nicht okay für dich? [Hier erfährst du, was du tun kannst.](/faq.html#was-mache-ich-wenn-jemand-meine-grenzen-ueberschreitet)
