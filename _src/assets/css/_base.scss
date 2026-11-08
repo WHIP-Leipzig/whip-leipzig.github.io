@@ -102,6 +102,31 @@ aside li {
   }
 }
 
+// The homepage's "want to come by?" call to action: a soft card (same look as the FAQ
+// overview) with a quiet outline button.
+.cta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--pico-spacing);
+  padding: var(--pico-spacing);
+  margin-bottom: calc(var(--pico-spacing) * 2);
+  border-radius: var(--pico-border-radius);
+  background: var(--pico-card-background-color);
+  box-shadow: var(--pico-card-box-shadow);
+
+  p {
+    flex: 1 1 20rem;
+    margin: 0;
+  }
+
+  [role="button"] {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+  }
+}
+
 // A closing note set apart from the page content above it (e.g. the help link on the
 // principles pages).
 .page-note {
