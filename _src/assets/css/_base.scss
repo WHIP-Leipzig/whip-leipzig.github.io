@@ -102,6 +102,12 @@ aside li {
   }
 }
 
+// A closing note set apart from the page content above it (e.g. the help link on the
+// principles pages).
+.page-note {
+  margin-top: calc(var(--pico-spacing) * 3);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   @view-transition {
     navigation: auto;

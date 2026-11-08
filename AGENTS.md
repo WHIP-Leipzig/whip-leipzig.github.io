@@ -114,13 +114,16 @@ tags and the Organization JSON-LD, all in `_src/_includes/templates/header.njk`.
 
 ## Meeting times: Europe/Berlin, not the build machine's clock
 
-`meetings.json` gives times implicitly (`MEETING_START`/`MEETING_END` in
-[lib/time.js](lib/time.js), shown on the homepage too) as Europe/Berlin wall-clock time. The
-FAQ's "Wann geht es los?" / "What time does it start?" repeats them (and the newcomer round
-30 minutes earlier) in prose — update it in both languages if the times change. [lib/time.js](lib/time.js)'s `berlinIsoDateTime(date, time)` converts that to a
-proper ISO 8601 string with the correct, DST-aware UTC offset (`+02:00` in summer, `+01:00` in
-winter) — both `feed.11ty.js` (the `/treffen.ics` calendar feed) and the `eventsJsonLd` shortcode
-in `.eleventy.js` use it. Don't hardcode an offset, and don't reintroduce
+`meetings.json` gives times implicitly as Europe/Berlin wall-clock time: `MEETING_START`,
+`MEETING_END` and `NEWCOMER_LEAD_MINUTES` in [lib/time.js](lib/time.js) are the only place
+they're set. `.eleventy.js` formats them per language as the `meetingTimes` global data, which
+the homepage dates and the FAQ text (`{{ meetingTimes.de.start }}` etc.) use — write every
+time in content through it.
+
+`berlinIsoDateTime(date, time)` in the same file converts a time to a proper ISO 8601 string
+with the correct, DST-aware UTC offset (`+02:00` in summer, `+01:00` in winter) — both
+`feed.11ty.js` (the `/treffen.ics` calendar feed) and the `eventsJsonLd` shortcode in
+`.eleventy.js` use it. Don't hardcode an offset, and don't reintroduce
 `cal.timezone({name: 'Europe/Berlin', ...})` in `feed.11ty.js` even though it looks like the
 "proper" way to declare the calendar's zone: this project tried that with `timezones-ical-library`
 before, and it silently produced wrong event times, because ical-generator resolves a named

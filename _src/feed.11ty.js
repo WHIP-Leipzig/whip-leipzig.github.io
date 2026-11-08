@@ -15,8 +15,6 @@ export default class FeedTemplate {
   render({ meetings }) {
     // Generate a calendar object based on the calendar configuration
     // plus information provided by eleventy
-    const startTime = MEETING_START;
-    const endTime = MEETING_END;
     const cal = new ICalCalendar({
       name: calendar.title,
       description: calendar.description,
@@ -39,14 +37,14 @@ export default class FeedTemplate {
       // Create a calendar event from each page
       const event = cal.createEvent({
         id: `${meeting.type.toUpperCase()}-${meeting.date}`,
-        start: berlinIsoDateTime(meeting.date, startTime),
-        end: berlinIsoDateTime(meeting.date, endTime),
+        start: berlinIsoDateTime(meeting.date, MEETING_START),
+        end: berlinIsoDateTime(meeting.date, MEETING_END),
         summary: meeting.type === "meeting" ? "WHIP-Stammtisch" : "Play-WHIP",
         description: meeting.topic ? `Thema: ${meeting.topic}` : ""
       })
 
       // Add an alert to the event
-      const alarm = new Date(berlinIsoDateTime(meeting.date, startTime));
+      const alarm = new Date(berlinIsoDateTime(meeting.date, MEETING_START));
       alarm.setMinutes(alarm.getMinutes() - 120); // 2 hours before the event
       event.createAlarm({
         type: ICalAlarmType.display,

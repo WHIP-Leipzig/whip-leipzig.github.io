@@ -3,7 +3,35 @@ import eleventySass from "eleventy-sass";
 import slugTranslations from "./_src/_data/slugTranslations.json" with { type: "json" };
 import faqOverviewDe from "./_src/_data/faqOverview.json" with { type: "json" };
 import enData from "./_src/en/en.11tydata.json" with { type: "json" };
-import { berlinIsoDateTime, MEETING_START, MEETING_END } from "./lib/time.js";
+import {
+  berlinIsoDateTime,
+  formatTime,
+  shiftTime,
+  MEETING_START,
+  MEETING_END,
+  NEWCOMER_LEAD_MINUTES,
+} from "./lib/time.js";
+
+// Meeting times as shown to readers, per language — exposed as `meetingTimes` global data so
+// the FAQ text and the homepage dates both follow lib/time.js.
+const meetingTimes = Object.fromEntries(["de", "en"].map((lang) => [lang, {
+  start: formatTime(MEETING_START, lang),
+  end: formatTime(MEETING_END, lang),
+  newcomerStart: formatTime(shiftTime(MEETING_START, -NEWCOMER_LEAD_MINUTES), lang),
+  newcomerLead: NEWCOMER_LEAD_MINUTES,
+}]));
+
+const weekdays = {
+  de: ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  en: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+};
+
+const dateFormatter = new Intl.DateTimeFormat("de-DE", {
+  day: "2-digit",
+  month: "2-digit",
+  year: "numeric",
+  timeZone: "UTC",
+});
 
 const faqOverviewFor = (url) => (url.startsWith("/en/") ? enData.faqOverview : faqOverviewDe);
 
@@ -122,29 +150,15 @@ export default function(eleventyConfig) {
 		interval: 500,
 	});
 
+  eleventyConfig.addGlobalData("meetingTimes", meetingTimes);
+
   eleventyConfig.addShortcode("meetingDate", async function(meetingDate, lang) {
     // "YYYY-MM-DD" parses as UTC midnight, so read it back in UTC too — the build
     // machine's local timezone would otherwise shift it to the previous day west of UTC.
     const meetingDateObj = new Date(meetingDate);
-    const days = {
-      "de": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
-      "en": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
-    }
-    const formatter = new Intl.DateTimeFormat("de-DE", 
-      { 
-        day: '2-digit',
-        month: '2-digit',
-        year: 'numeric',
-        timeZone: 'UTC'
-      }
-    );
+    const time = lang === "en" ? meetingTimes.en.start : `${meetingTimes.de.start} Uhr`;
 
-    const [hours, minutes] = MEETING_START.split(":").map(Number);
-    const time = lang === "en"
-      ? `${hours % 12 || 12}${minutes ? `:${String(minutes).padStart(2, "0")}` : ""} ${hours < 12 ? "am" : "pm"}`
-      : `${MEETING_START} Uhr`;
-
-    return `${days[lang][meetingDateObj.getUTCDay()]}, ${formatter.format(meetingDateObj)}, ${time}`;
+    return `${weekdays[lang][meetingDateObj.getUTCDay()]}, ${dateFormatter.format(meetingDateObj)}, ${time}`;
    });
   
   eleventyConfig.addPassthroughCopy({"_src/assets/img": "assets/img"});
