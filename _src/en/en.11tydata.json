@@ -8,5 +8,52 @@
     { "url": "/en/contact.html", "title": "Contact" },
     { "url": "/en/privacy.html", "title": "Privacy" },
     { "url": "/en/imprint.html", "title": "Imprint" }
-  ]
+  ],
+  "faqOverview": {
+    "title": "At a glance",
+    "groups": [
+      {
+        "title": "About us",
+        "items": [
+          { "id": "what-does-whip-stand-for", "label": "What does WHIP stand for?" },
+          { "id": "who-is-the-meetup-aimed-at-is-there-an-age-limit", "label": "Who is it for?" },
+          { "id": "will-i-fit-in", "label": "Will I fit in?" },
+          { "id": "can-i-find-a-partner-with-you", "label": "Finding a partner?" },
+          { "id": "i-am-a-bit-older-what-can-i-do", "label": "A bit older?" }
+        ]
+      },
+      {
+        "title": "Safety & trust",
+        "items": [
+          { "id": "what-are-your-rules", "label": "Rules" },
+          { "id": "what-if-someone-crosses-my-boundaries", "label": "Boundaries crossed" },
+          { "id": "will-what-i-share-stay-between-us", "label": "Will it stay between us?" },
+          { "id": "what-is-cooperative-communication", "label": "Cooperative communication" },
+          { "id": "are-photos-videos-allowed", "label": "Photos/videos" }
+        ]
+      },
+      {
+        "title": "The meetups",
+        "items": [
+          { "id": "what-kinds-of-meetups-are-there-at-whip", "label": "Which meetups?" },
+          { "id": "how-often-does-the-meetup-take-place", "label": "How often?" },
+          { "id": "can-i-come-if-i-ve-never-been-to-a-meetup-before", "label": "Your first time" },
+          { "id": "is-playing-allowed", "label": "Playing" },
+          { "id": "how-should-i-dress", "label": "What to wear" },
+          { "id": "are-there-food-drinks-on-site", "label": "Food & drinks" },
+          { "id": "does-a-visit-cost-anything", "label": "Cost" },
+          { "id": "is-smoking-allowed-in-the-venue", "label": "Smoking" },
+          { "id": "i-m-not-brave-enough-to-come-alone-what-can-i-do", "label": "Rather not come alone?" }
+        ]
+      },
+      {
+        "title": "Contact & help",
+        "items": [
+          { "id": "how-do-i-reach-the-organizers-how-can-i-contact-you", "label": "Reaching the organizers" },
+          { "id": "i-m-struggling-with-my-kink-interests-what-can-i-do", "label": "Struggling with your kink" },
+          { "id": "my-question-wasnt-answered-here", "label": "Question not answered?" }
+        ]
+      }
+    ]
+  }
 }

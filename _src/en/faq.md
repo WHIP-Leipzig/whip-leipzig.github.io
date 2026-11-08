@@ -3,11 +3,16 @@ title: "FAQ"
 description: "Answers to frequently asked questions about the WHIP meetup in Leipzig: what to expect, our principles, how to join and more."
 layout: "base.njk"
 ---
+{% faqOverview faqOverview %}
+
 ## What does WHIP stand for?
 The meetup's name is an acronym; in full, it stands for "Welcome Home Innocent Pervs".
 
 ## Who is the meetup aimed at? Is there an age limit?
 This question is answered in our [Concept](/en/concept.html).
+
+## Will I fit in?
+If you see yourself in our [concept](/en/concept.html): very likely! You don't need any experience, and you don't have to define yourself – many people come just out of curiosity at first. We don't judge anyone's kinks; all that matters to us is that everything happens with consent.
 
 ## Can I find a partner with you?
 **Our community is not a matchmaking service or partner exchange.**<br/>
@@ -30,14 +35,14 @@ At the meetup, people often share very personal things. We trust everyone to han
 ## What is cooperative communication?
 It's a way of talking based on Marshall B. Rosenberg's [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication): describing what you observed, how you feel about it, what you need and what you're asking for – without blame.
 
+## Are photos/videos allowed?
+In the spirit of the Safer Space, it is forbidden to take photos or videos of other people.
+
 ## What kinds of meetups are there at WHIP?
 Currently, there is the **WHIP meetup**, where we get together in a cozy circle without playing, and the **Play-WHIP**, where we can also play a little in a private setting.
 
 ## How often does the meetup take place?
 Each of our meetings currently takes place at least once a month.
-
-## Will I fit in?
-If you see yourself in our [concept](/en/concept.html): very likely! You don't need any experience, and you don't have to define yourself – many people come just out of curiosity at first. We don't judge anyone's kinks; all that matters to us is that everything happens with consent.
 
 ## Can I come if I've never been to a meetup before?
 Of course! There is always a round for new people that takes place 30 minutes before the official start. During this time, the organizers explain the meetup, the [Principles](/en/principles.html) and some general information. This lets you get to know the organizers and talk through open questions beforehand. It also means you don't have to walk straight into a large, established group. We hope this makes arriving at our events a little easier for you.
@@ -55,6 +60,26 @@ If you play, please pay attention to your surroundings, and let's find out toget
 #### Important!
 The Play-WHIP venue is video-monitored for safety reasons during our events. The recordings are automatically deleted after 48 hours and serve solely to protect the bar staff in case of any incidents. 
 
+## How should I dress?
+### WHIP meetup
+Wear the outfit in which you feel most comfortable.
+
+### Play-WHIP
+Come in whatever outfit you feel comfortable in, or change into something comfy/chic/sexy on site if you like. It's your choice.
+
+## Are there food/drinks on site?
+There are drinks at the venue, and you can choose what to pay for them within a given range, depending on your own means. You can bring your own food; directly opposite, you can get kebab and pizza (vegan options too). 
+
+## Does a visit cost anything?
+No, visiting doesn't cost anything. However, it would be nice if the venues that host us get a little something out of it. So if you can order a few drinks over the evening, that would be great.  
+Of course, it's also okay if that doesn't fit your budget right now.
+
+## Is smoking allowed in the venue?
+Smoking is not allowed inside the venue, but you'll sometimes find people smoking outside.
+
+## I'm not brave enough (to come alone), what can I do?
+That's totally okay! If you like, you can ask a friend to accompany you. This makes the first step easier.
+
 ## How do I reach the organizers? How can I contact you?
 The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+ohpo9UueL2AwNmQy).
 ### Note:
@@ -65,29 +90,6 @@ The Telegram invitation link leads to the "Lounge", not yet to the main group �
 After a bot check, the organizers will then move you to the main group manually. 
 
 Please note that we assume an account that has joined is a bot if there is no reply to our welcome message. In this case, we will remove the account from the channel for now. 
-
-## Are there food/drinks on site?
-There are drinks at the venue, and you can choose what to pay for them within a given range, depending on your own means. You can bring your own food; directly opposite, you can get kebab and pizza (vegan options too). 
-
-## How should I dress?
-### WHIP meetup
-Wear the outfit in which you feel most comfortable.
-
-### Play-WHIP
-Come in whatever outfit you feel comfortable in, or change into something comfy/chic/sexy on site if you like. It's your choice.
-
-## I'm not brave enough (to come alone), what can I do?
-That's totally okay! If you like, you can ask a friend to accompany you. This makes the first step easier.
-
-## Does a visit cost anything?
-No, visiting doesn't cost anything. However, it would be nice if the venues that host us get a little something out of it. So if you can order a few drinks over the evening, that would be great.  
-Of course, it's also okay if that doesn't fit your budget right now.
-
-## Are photos/videos allowed?
-In the spirit of the Safer Space, it is forbidden to take photos or videos of other people.
-
-## Is smoking allowed in the venue?
-Smoking is not allowed inside the venue, but you'll sometimes find people smoking outside.
 
 ## I'm struggling with my kink/interests — what can I do?
 We're really sorry you're feeling this way, but help is available!

@@ -3,11 +3,16 @@ title: "FAQ"
 description: "Antworten auf häufige Fragen zum WHIP-Stammtisch Leipzig: Ablauf, Prinzipien, Anmeldung, Kleidung und mehr."
 layout: "base.njk"
 ---
+{% faqOverview faqOverview %}
+
 ## Wofür steht WHIP?
 Der Stammtischname ist ein Akronym und steht in seiner Gesamtform für "Welcome Home Innocent Pervs".
 
 ## An wen richtet sich der Stammtisch? Gibt es eine Altersbegrenzung?
 Diese Frage ist in unserem [Konzept](/konzept.html) beantwortet.
+
+## Passe ich zu euch?
+Wenn du dich in unserem [Konzept](/konzept.html) wiederfindest: sehr wahrscheinlich! Du musst keine Erfahrung mitbringen und nichts über dich festlegen – viele kommen erst mal aus Neugier. Neigungen bewerten wir nicht, uns ist nur wichtig, dass alles im Konsens passiert.
 
 ## Kann ich bei Euch eine Partnerperson finden?
 **Unsere Community ist keine Partnerbörse oder Kontaktvermittlung.**<br/>
@@ -30,14 +35,14 @@ Beim Stammtisch teilen Menschen oft sehr Persönliches. Wir vertrauen darauf, da
 ## Was ist kooperative Kommunikation?
 Gemeint ist eine Art zu sprechen, die auf der [Gewaltfreien Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation) nach Marshall B. Rosenberg aufbaut: beschreiben, was man beobachtet hat, wie es einem damit geht, was man braucht und worum man bittet – ohne Vorwürfe.
 
+## Sind Fotos/Videos erlaubt?
+Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Personen anzufertigen.
+
 ## Was für Treffen gibt es beim WHIP?
 Aktuell gibt es den **WHIP-Stammtisch**, bei dem wir in gemütlicher Runde ohne Spielen zusammenkommen sowie den **Play-WHIP**, bei dem wir in geschlossener Gesellschaft auch etwas spielen können.
 
 ## Wie häufig findet der Stammtisch statt?
 Jedes unserer Treffen findet aktuell mindestens einmal im Monat statt.
-
-## Passe ich zu euch?
-Wenn du dich in unserem [Konzept](/konzept.html) wiederfindest: sehr wahrscheinlich! Du musst keine Erfahrung mitbringen und nichts über dich festlegen – viele kommen erst mal aus Neugier. Neigungen bewerten wir nicht, uns ist nur wichtig, dass alles im Konsens passiert.
 
 ## Kann ich auch kommen, wenn ich noch nie auf einem Stammtisch war?
 Natürlich! Es gibt immer eine Runde für neue Leute, die 30 Minuten vor dem offiziellen Beginn stattfindet. Dabei erklären die Organisierenden den Stammtisch, die [Prinzipien](/prinzipien.html) und auch ein paar allgemeine Informationen. So können schonmal die Organisierenden kennengelernt und offene Fragen besprochen werden. Dazu habt ihr so auch die Möglichkeit, nicht direkt in einer großen, bestehenden Runde anzukommen. Wir erhoffen uns, dass das das Ankommen bei uns etwas erleichtert.
@@ -55,6 +60,26 @@ Wenn ihr spielt, achtet bitte auf eure Umgebung und lasst uns gemeinsam herantas
 #### Wichtig!
 Die Location ist aus sicherheitstechnischen Gründen während unserer Veranstaltung videoüberwacht. Die Aufnahmen werden nach 48h automatisch gelöscht und dienen lediglich der Absicherung des Barpersonals, falls es zu irgendwelchen Vorfällen käme. 
 
+## Wie sollte ich mich kleiden?
+### WHIP-Stammtisch
+Am besten in dem Outfit, in dem du dich am wohlsten fühlst.
+
+### Play-WHIP
+Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort noch bequem/schick/sexy an, wenn ihr das möchtet. Ihr habt die Wahl.
+
+## Gibt es vor Ort Speisen/Getränke?
+Es gibt in der Location Getränke mit einem Preis, der sich in einem angegebenen Rahmen, je nach eigenen Möglichkeiten, selbst ausgesucht werden kann. Essen kann mitgebracht werden, direkt gegenüber gibt es die Möglichkeit Kebab und Pizza (auch vegan) zu bekommen. 
+
+## Kostet der Besuch etwas?
+Nein, der Besuch kostet nichts. Es wäre aber schön, wenn die Orte an denen wir sein dürfen ein wenig davon haben. Wenn ihr daher über den Abend ein paar Getränke bestellen könnt, wäre das großartig.  
+Sollte das aktuell für dich nicht passen, ist das natürlich auch okay.
+
+## Wird in der Location geraucht?
+In der Location selbst wird nicht geraucht, aber davor sind zuweilen rauchende Menschen anzutreffen.
+
+## Ich traue mich nicht (alleine) vorbeizukommen, was kann ich tun?
+Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
+
 ## Wie erreiche ich die Orga? Wie kann ich Kontakt aufnehmen?
 Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+ohpo9UueL2AwNmQy).
 ### Hinweis:
@@ -65,29 +90,6 @@ Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hau
 Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. 
 
 Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beigetretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
-
-## Gibt es vor Ort Speisen/Getränke?
-Es gibt in der Location Getränke mit einem Preis, der sich in einem angegebenen Rahmen, je nach eigenen Möglichkeiten, selbst ausgesucht werden kann. Essen kann mitgebracht werden, direkt gegenüber gibt es die Möglichkeit Kebab und Pizza (auch vegan) zu bekommen. 
-
-## Wie sollte ich mich kleiden?
-### WHIP-Stammtisch
-Am besten in dem Outfit, in dem du dich am wohlsten fühlst.
-
-### Play-WHIP
-Kommt in den Outfits, in denen ihr euch wohlfühlt oder zieht euch ggf. vor Ort noch bequem/schick/sexy an, wenn ihr das möchtet. Ihr habt die Wahl.
-
-## Ich traue mich nicht (alleine) vorbeizukommen, was kann ich tun?
-Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
-
-## Kostet der Besuch etwas?
-Nein, der Besuch kostet nichts. Es wäre aber schön, wenn die Orte an denen wir sein dürfen ein wenig davon haben. Wenn ihr daher über den Abend ein paar Getränke bestellen könnt, wäre das großartig.  
-Sollte das aktuell für dich nicht passen, ist das natürlich auch okay.
-
-## Sind Fotos/Videos erlaubt?
-Im Sinne des Safer Spaces ist es untersagt, Fotos oder Videos von anderen Personen anzufertigen.
-
-## Wird in der Location geraucht?
-In der Location selbst wird nicht geraucht, aber davor sind zuweilen rauchende Menschen anzutreffen.
 
 ## Ich verspüre einen Leidensdruck mit meinen Neigungen, was kann ich tun?
 Das tut uns sehr leid, aber es gibt Hilfe!

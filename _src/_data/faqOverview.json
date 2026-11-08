@@ -1,0 +1,47 @@
+{
+  "title": "Auf einen Blick",
+  "groups": [
+    {
+      "title": "Über uns",
+      "items": [
+        { "id": "wofuer-steht-whip", "label": "Wofür steht WHIP?" },
+        { "id": "an-wen-richtet-sich-der-stammtisch-gibt-es-eine-altersbegrenzung", "label": "Für wen?" },
+        { "id": "passe-ich-zu-euch", "label": "Passe ich zu euch?" },
+        { "id": "kann-ich-bei-euch-eine-partnerperson-finden", "label": "Partnersuche?" },
+        { "id": "ich-bin-schon-etwas-aelter-was-kann-ich-tun", "label": "Schon etwas älter?" }
+      ]
+    },
+    {
+      "title": "Sicherheit & Vertrauen",
+      "items": [
+        { "id": "was-sind-eure-regeln", "label": "Regeln" },
+        { "id": "was-mache-ich-wenn-jemand-meine-grenzen-ueberschreitet", "label": "Grenzen überschritten" },
+        { "id": "bleibt-was-ich-erzaehle-unter-uns", "label": "Bleibt es unter uns?" },
+        { "id": "was-ist-kooperative-kommunikation", "label": "Kooperative Kommunikation" },
+        { "id": "sind-fotos-videos-erlaubt", "label": "Fotos/Videos" }
+      ]
+    },
+    {
+      "title": "Die Treffen",
+      "items": [
+        { "id": "was-fuer-treffen-gibt-es-beim-whip", "label": "Welche Treffen?" },
+        { "id": "wie-haeufig-findet-der-stammtisch-statt", "label": "Wie oft?" },
+        { "id": "kann-ich-auch-kommen-wenn-ich-noch-nie-auf-einem-stammtisch-war", "label": "Zum ersten Mal dabei" },
+        { "id": "ist-spielen-erlaubt", "label": "Spielen" },
+        { "id": "wie-sollte-ich-mich-kleiden", "label": "Kleidung" },
+        { "id": "gibt-es-vor-ort-speisen-getraenke", "label": "Essen & Trinken" },
+        { "id": "kostet-der-besuch-etwas", "label": "Kosten" },
+        { "id": "wird-in-der-location-geraucht", "label": "Rauchen" },
+        { "id": "ich-traue-mich-nicht-alleine-vorbeizukommen-was-kann-ich-tun", "label": "Lieber nicht alleine?" }
+      ]
+    },
+    {
+      "title": "Kontakt & Hilfe",
+      "items": [
+        { "id": "wie-erreiche-ich-die-orga-wie-kann-ich-kontakt-aufnehmen", "label": "Orga erreichen" },
+        { "id": "ich-verspuere-einen-leidensdruck-mit-meinen-neigungen-was-kann-ich-tun", "label": "Leidensdruck" },
+        { "id": "meine-frage-wurde-hier-nicht-beantwortet", "label": "Frage nicht beantwortet?" }
+      ]
+    }
+  ]
+}

@@ -40,6 +40,12 @@ and produce all expected pages under `_site/` (currently 22 files: DE and EN pag
   `_src/_data/legallinks.json` / the same file (`legallinks` field) maintain header and footer
   navigation separately per language. A new page in the main nav needs entries in both language
   variants.
+- The grouped "Auf einen Blick" / "At a glance" overview atop the FAQ comes from
+  `_src/_data/faqOverview.json` (DE) and the `faqOverview` field in `_src/en/en.11tydata.json`
+  (EN): one entry per `##` question, holding its heading id and a short label. The FAQ body is
+  sorted in the same group order. Adding, renaming or moving a question means updating both
+  the page and its overview entry, in both languages — the `faqOverviewCheck` transform in
+  `.eleventy.js` fails the build until the two match.
 - `site.name` from `_src/_data/site.json` is the site-wide title suffix (`<title>`, `og:title`,
   `twitter:title` all render as `{{ title }} | {{ site.name }}` in `header.njk`). There is no
   separate `site.title` — don't reference one.
