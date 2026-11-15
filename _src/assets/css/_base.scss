@@ -54,13 +54,19 @@ aside li {
   }
 }
 
-.faq-overview {
-  font-size: 0.8rem;
+// Soft card shared by the FAQ overview, the homepage call to action and FAQ callouts.
+.faq-overview,
+.cta,
+.callout {
   padding: var(--pico-spacing);
   margin-bottom: calc(var(--pico-spacing) * 2);
   border-radius: var(--pico-border-radius);
   background: var(--pico-card-background-color);
   box-shadow: var(--pico-card-box-shadow);
+}
+
+.faq-overview {
+  font-size: 0.8rem;
 
   h2 {
     font-size: 1rem;
@@ -102,19 +108,13 @@ aside li {
   }
 }
 
-// The homepage's "want to come by?" call to action: a soft card (same look as the FAQ
-// overview) with a quiet outline button.
+// The homepage's "want to come by?" call to action, with a quiet outline button.
 .cta {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: var(--pico-spacing);
-  padding: var(--pico-spacing);
-  margin-bottom: calc(var(--pico-spacing) * 2);
-  border-radius: var(--pico-border-radius);
-  background: var(--pico-card-background-color);
-  box-shadow: var(--pico-card-box-shadow);
 
   p {
     flex: 1 1 20rem;
@@ -124,6 +124,22 @@ aside li {
   [role="button"] {
     font-size: 0.9rem;
     padding: 0.5rem 1rem;
+  }
+}
+
+// An important note inside FAQ content (e.g. what to include when getting in touch), marked
+// by an accent bar so it isn't skimmed past. Wrap the Markdown in <div class="callout"> with
+// blank lines inside, so it is still parsed as Markdown.
+.callout {
+  border-left: 0.25rem solid var(--pico-primary);
+
+  h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
   }
 }
 

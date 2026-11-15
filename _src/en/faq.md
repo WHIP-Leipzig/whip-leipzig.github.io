@@ -93,13 +93,20 @@ If you have questions or need support, [feel free to reach out](#how-do-i-reach-
 That's totally okay! If you like, you can ask a friend to accompany you. This makes the first step easier.
 
 ## How do I reach the organizers? How can I contact you?
-The best way is via email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) or via our [Telegram group](https://t.me/+ohpo9UueL2AwNmQy).
-### Note:
+<div class="callout">
+
+### Important note for your first contact with us
+**We are [not a dating platform or a matchmaking service](#can-i-find-a-partner-with-you).**
+
 Please feel free to tell us how you found us or anything else you’d like to share. However, it is very important to us that you also tell us your age and confirm that you have read and understood [our principles](/en/principles.html) as well as [our concept](/en/concept.html).<br/>
 Unfortunately, we have had some bad experiences, which is why we have to insist on this.
 
+</div>
+
+The best way to contact us is via our [Telegram group](https://t.me/+ohpo9UueL2AwNmQy) or email at [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de).
+
 The Telegram invitation link leads to the "Lounge", not yet to the main group. This keeps bots out of our main group and gives us a room that, at first, only the new person and the organizers can access. Bots usually write nothing at all or something about dubious job offers. 😁
-After a bot check, the organizers will then move you to the main group manually. 
+After the bot check, you'll be moved to the main group.
 
 Please note that we assume an account that has joined is a bot if there is no reply to our welcome message. In this case, we will remove the account from the channel for now. 
 

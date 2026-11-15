@@ -93,13 +93,20 @@ Wenn du Fragen hast oder Unterstützung brauchst, [schreib uns gern](#wie-erreic
 Das ist voll okay! Wenn du möchtest, kannst du eine befreundete Person fragen, ob sie dich begleiten möchte. Das macht den ersten Schritt leichter.
 
 ## Wie erreiche ich die Orga? Wie kann ich Kontakt aufnehmen?
-Am besten via Email unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) oder über unsere [Telegramgruppe](https://t.me/+ohpo9UueL2AwNmQy).
-### Hinweis:
-Schreibt gern wie ihr zu uns gefunden habt oder was auch immer ihr sonst mögt - was uns aber sehr wichtig ist, ist dass ihr bitte kurz euer Alter mit uns teilt und dass ihr [unsere Prinzipien](/prinzipien.html) sowie [das Konzept](/konzept.html) gelesen und verstanden habt. <br/>
+<div class="callout">
+
+### Wichtiger Hinweis für den Erstkontakt
+**Wir sind [keine Partnerbörse oder Kontaktvermittlung](#kann-ich-bei-euch-eine-partnerperson-finden).**
+
+Schreibt gern, wie ihr zu uns gefunden habt oder was auch immer ihr sonst mögt. Sehr wichtig ist uns aber, dass ihr kurz euer Alter mit uns teilt und dass ihr [unsere Prinzipien](/prinzipien.html) sowie [das Konzept](/konzept.html) gelesen und verstanden habt. <br/>
 Leider haben wir schlechte Erfahrungen machen müssen, weshalb wir inzwischen darauf bestehen.
 
-Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hauptgruppe - so vermeiden wir Bots in unserer Hauptgruppe und ermöglichen einen Raum in dem zunächst nur die neue Person und die Organisierenden Zugriff haben. Bots schreiben meist gar nichts oder über ominöse Jobangebote. 😁
-Die Organisierenden verschieben dann manuell in die Hauptgruppe nach Bot-Check. 
+</div>
+
+Am besten sind wir über unsere [Telegramgruppe](https://t.me/+ohpo9UueL2AwNmQy) oder via E-Mail unter [kontakt@whip-leipzig.de](mailto:kontakt@whip-leipzig.de) erreichbar.
+
+Der Einladungslink für Telegram ist für die "Lounge" und noch nicht in die Hauptgruppe. So vermeiden wir Bots in unserer Hauptgruppe und ermöglichen einen Raum, in dem zunächst nur die neue Person und die Organisierenden Zugriff haben. Bots schreiben meist gar nichts oder über ominöse Jobangebote. 😁
+Nach dem Bot-Check geht es dann in die Hauptgruppe.
 
 Bitte beachtet daher, dass wir auch annehmen, dass es sich bei einem beigetretenen Konto um einen Bot handelt, wenn keine Reaktion auf unsere Willkommensnachricht erfolgt. In diesem Fall entfernen wir das Konto zunächst wieder aus dem Kanal. 
 
