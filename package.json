@@ -20,6 +20,6 @@
     "sass": "^1.108.2"
   },
   "dependencies": {
-    "ical-generator": "^11.1.3"
+    "ical-generator": "^11.1.4"
   }
 }
